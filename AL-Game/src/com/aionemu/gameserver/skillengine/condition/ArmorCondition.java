@@ -1,0 +1,56 @@
+/**
+ */
+package com.aionemu.gameserver.skillengine.condition;
+
+import java.util.List;
+
+import javax.xml.bind.annotation.XmlAccessType;
+import javax.xml.bind.annotation.XmlAccessorType;
+import javax.xml.bind.annotation.XmlAttribute;
+import javax.xml.bind.annotation.XmlType;
+
+import com.aionemu.gameserver.model.gameobjects.Creature;
+import com.aionemu.gameserver.model.gameobjects.player.Player;
+import com.aionemu.gameserver.model.stats.calc.Stat2;
+import com.aionemu.gameserver.model.stats.calc.functions.IStatFunction;
+import com.aionemu.gameserver.model.templates.item.ArmorType;
+import com.aionemu.gameserver.skillengine.model.Skill;
+import com.aionemu.gameserver.skillengine.model.Skill.SkillMethod;
+
+/**
+ * @author ATracer
+ */
+@XmlAccessorType(XmlAccessType.FIELD)
+@XmlType(name = "ArmorCondition")
+public class ArmorCondition extends Condition {
+
+    @XmlAttribute(name = "armor")
+    private List<ArmorType> weaponType;
+
+    @Override
+    public boolean validate(Skill env) {
+        if (env.getSkillMethod() != SkillMethod.CAST) {
+            return true;
+        }
+
+        return isValidArmor(env.getEffector());
+    }
+
+    @Override
+    public boolean validate(Stat2 stat, IStatFunction statFunction) {
+        return isValidArmor(stat.getOwner());
+    }
+
+    /**
+     * @param creature
+     * @return
+     */
+    private boolean isValidArmor(Creature creature) {
+        if (creature instanceof Player) {
+            Player player = (Player) creature;
+            return weaponType.contains(player.getEquipment().getMainHandWeaponType());
+        }
+        //for npcs we don't validate weapon, though in templates they are present
+        return true;
+    }
+}

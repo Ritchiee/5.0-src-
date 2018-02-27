@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<zone zone_type="PVP" area_type="POLYGON" name="PVP_AREA_01_900210000" mapid="900210000" flags="55">
+		<points bottom="37.0486832" top="47.0486832">
+			<point x="269.5798" y="236.3249" />
+			<point x="258.1520" y="240.9999" />
+			<point x="252.9104" y="252.9472" />
+			<point x="258.2465" y="265.0833" />
+			<point x="269.6743" y="269.1916" />
+			<point x="281.1965" y="264.0916" />
+			<point x="285.6354" y="252.4277" />
+			<point x="281.0076" y="241.4722" />
+		</points>
+	</zone>
+</zones>

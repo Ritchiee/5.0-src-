@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<zone priority="14" zone_type="SUB" area_type="POLYGON" name="REGRETS_BERTH_301540000" mapid="301540000" flags="55">
+		<points bottom="1670.5282" top="1740.5282">
+			<point x="393.9586" y="91.5633" />
+			<point x="591.9423" y="90.1937" />
+			<point x="591.0356" y="266.8443" />
+			<point x="394.8389" y="265.4593" />
+		</points>
+	</zone>
+	<zone priority="13" zone_type="SUB" area_type="POLYGON" name="EMBERCRACK_STEPS_301540000" mapid="301540000" flags="55">
+		<points bottom="1669.12366" top="1719.12366">
+			<point x="591.7857" y="148.5083" />
+			<point x="639.7523" y="165.4455" />
+			<point x="653.3240" y="183.7756" />
+			<point x="662.3619" y="197.8459" />
+			<point x="670.8390" y="203.0497" />
+			<point x="684.7140" y="204.8629" />
+			<point x="701.1353" y="201.4357" />
+			<point x="728.4877" y="199.1991" />
+			<point x="763.9534" y="220.8725" />
+			<point x="730.0376" y="279.6332" />
+			<point x="706.2068" y="264.6214" />
+			<point x="699.9699" y="248.2730" />
+			<point x="687.7715" y="235.5097" />
+			<point x="670.4988" y="239.0303" />
+			<point x="655.8360" y="238.3079" />
+			<point x="637.9667" y="225.8154" />
+			<point x="634.7394" y="210.2791" />
+			<point x="591.3399" y="216.8316" />
+		</points>
+	</zone>
+	<zone priority="16" zone_type="SUB" area_type="POLYGON" name="DRAKENSPIRE_DEPTHS_301540000" mapid="301540000" flags="55">
+		<points bottom="1468.83862" top="1868.83862">
+			<point x="321.2159" y="76.8888" />
+			<point x="509.4022" y="79.5507" />
+			<point x="565.8170" y="62.7727" />
+			<point x="772.7450" y="53.8027" />
+			<point x="915.1561" y="174.5870" />
+			<point x="1032.3964" y="310.6793" />
+			<point x="1063.8182" y="468.6146" />
+			<point x="977.5916" y="563.2805" />
+			<point x="953.7769" y="711.0733" />
+			<point x="949.5958" y="811.0975" />
+			<point x="1033.8196" y="1028.9735" />
+			<point x="980.3405" y="1224.6479" />
+			<point x="830.0520" y="1304.0175" />
+			<point x="616.3796" y="1381.7977" />
+			<point x="436.7856" y="1284.0116" />
+			<point x="393.7070" y="1095.1313" />
+			<point x="225.3278" y="1042.6349" />
+			<point x="255.1967" y="762.1697" />
+			<point x="482.0500" y="755.4427" />
+			<point x="562.7782" y="686.6357" />
+			<point x="556.3528" y="576.0682" />
+			<point x="559.3100" y="452.2891" />
+			<point x="559.9684" y="308.7379" />
+			<point x="319.2345" y="310.4849" />
+		</points>
+	</zone>
+	<zone priority="8" zone_type="SUB" area_type="POLYGON" name="DRAKENMOUTH_GAPE_301540000" mapid="301540000" flags="55">
+		<points bottom="1585.75" top="1655.75">
+			<point x="622.4521" y="911.3357" />
+			<point x="648.1978" y="910.5946" />
+			<point x="647.2984" y="948.9223" />
+			<point x="660.5823" y="963.6362" />
+			<point x="670.6645" y="977.7114" />
+			<point x="676.8604" y="1000.1876" />
+			<point x="663.8516" y="1010.8840" />
+			<point x="604.6044" y="1008.6927" />
+			<point x="599.6447" y="988.2563" />
+			<point x="606.8636" y="971.4089" />
+			<point x="627.0385" y="949.3613" />
+		</points>
+	</zone>
+	<zone priority="9" zone_type="SUB" area_type="POLYGON" name="FLAMEGAZE_PASSAGE_301540000" mapid="301540000" flags="55">
+		<points bottom="1563.3042" top="1663.3042">
+			<point x="628.1810" y="805.0993" />
+			<point x="644.1840" y="804.7332" />
+			<point x="643.7770" y="848.2444" />
+			<point x="649.7588" y="847.0528" />
+			<point x="711.3560" y="781.0186" />
+			<point x="737.0969" y="814.4467" />
+			<point x="660.6934" y="864.0045" />
+			<point x="663.4498" y="872.0243" />
+			<point x="742.8851" y="861.3610" />
+			<point x="742.3733" y="897.5944" />
+			<point x="665.4254" y="888.9582" />
+			<point x="662.3775" y="896.6427" />
+			<point x="740.7568" y="947.0651" />
+			<point x="702.3907" y="982.3387" />
+			<point x="650.2659" y="907.2121" />
+			<point x="644.5233" y="910.3719" />
+			<point x="625.7509" y="910.7515" />
+			<point x="620.6841" y="910.3969" />
+			<point x="552.9387" y="996.6495" />
+			<point x="516.4540" y="963.9572" />
+			<point x="606.8688" y="900.1866" />
+			<point x="605.2075" y="888.8306" />
+			<point x="524.4774" y="896.9319" />
+			<point x="525.2700" y="858.8330" />
+			<point x="607.5309" y="873.5875" />
+			<point x="610.4177" y="867.8577" />
+			<point x="537.9467" y="816.2768" />
+			<point x="559.1439" y="784.5206" />
+			<point x="621.8395" y="853.2333" />
+			<point x="628.0706" y="849.5775" />
+		</points>
+	</zone>
+	<zone priority="16" zone_type="SUB" area_type="POLYGON" name="AGONYS_WELL_301540000" mapid="301540000" flags="55">
+		<points bottom="1621.09363" top="1871.09363">
+			<point x="51.2800" y="428.6401" />
+			<point x="137.9118" y="382.5158" />
+			<point x="238.6039" y="394.4726" />
+			<point x="299.2623" y="496.5280" />
+			<point x="263.5023" y="624.1922" />
+			<point x="152.9762" y="662.6962" />
+			<point x="63.5271" y="625.7852" />
+			<point x="23.2618" y="532.2141" />
+		</points>
+	</zone>
+	<zone priority="11" zone_type="SUB" area_type="POLYGON" name="SPLITSCALE_LAIR_301540000" mapid="301540000" flags="55">
+		<points bottom="1685.88232" top="1735.88232">
+			<point x="798.3752" y="513.1796" />
+			<point x="775.3522" y="495.3847" />
+			<point x="859.1421" y="508.8168" />
+			<point x="834.3693" y="521.5715" />
+			<point x="832.4473" y="535.4515" />
+			<point x="844.9212" y="552.6021" />
+			<point x="845.1461" y="573.2808" />
+			<point x="837.5697" y="588.6013" />
+			<point x="847.7589" y="605.5999" />
+			<point x="781.5219" y="597.9569" />
+			<point x="784.3763" y="588.7037" />
+			<point x="779.4516" y="575.6122" />
+			<point x="778.1215" y="562.0518" />
+			<point x="784.6458" y="546.0483" />
+			<point x="797.5089" y="534.4974" />
+		</points>
+	</zone>
+	<zone priority="10" zone_type="SUB" area_type="POLYGON" name="SOULFADE_LABYRINTH_301540000" mapid="301540000" flags="55">
+		<points bottom="1545.19043" top="1745.19043">
+			<point x="781.1813" y="599.7674" />
+			<point x="847.5866" y="605.6979" />
+			<point x="856.3483" y="671.3909" />
+			<point x="806.8631" y="677.6269" />
+			<point x="750.5895" y="683.6831" />
+			<point x="679.1496" y="687.2552" />
+			<point x="672.6486" y="803.1647" />
+			<point x="598.9722" y="804.7896" />
+			<point x="577.5244" y="675.7964" />
+			<point x="577.8658" y="605.9822" />
+		</points>
+	</zone>
+	<zone priority="15" zone_type="SUB" area_type="POLYGON" name="DETACHMENT_RENDEZVOUS_301540000" mapid="301540000" flags="55">
+		<points bottom="1679.592" top="1729.592">
+			<point x="303.3638" y="149.9530" />
+			<point x="393.7110" y="149.6801" />
+			<point x="393.3099" y="212.7218" />
+			<point x="303.1131" y="211.7499" />
+		</points>
+	</zone>
+	<zone priority="12" zone_type="SUB" area_type="POLYGON" name="DESTINYS_CRUX_301540000" mapid="301540000" flags="55">
+		<points bottom="1687.07056" top="1787.07056">
+			<point x="764.0612" y="220.9733" />
+			<point x="801.7968" y="211.4453" />
+			<point x="903.4978" y="248.5201" />
+			<point x="935.8892" y="296.6666" />
+			<point x="935.4862" y="342.7798" />
+			<point x="921.0370" y="379.7747" />
+			<point x="907.8194" y="420.5670" />
+			<point x="858.6396" y="508.3305" />
+			<point x="775.3049" y="495.3049" />
+			<point x="752.6473" y="390.8899" />
+			<point x="743.3740" y="307.2060" />
+			<point x="730.1415" y="279.9320" />
+		</points>
+	</zone>
+</zones>

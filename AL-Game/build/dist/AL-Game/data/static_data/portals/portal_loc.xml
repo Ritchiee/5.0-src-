@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portal_locs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="portal_loc.xsd">
+	<!-- for example loc id  220030000 -> 2200300+ (remove last 00) -->
+	<portal_loc world_id="600020000" loc_id="3005000" x="1130" y="1310" z="1361"/> <!-- Offilike zuruck zu Killios -->
+	<portal_loc world_id="600020000" loc_id="3005001" x="1602" y="1611" z="1361"/> <!-- Offilike zuruck zu Aima -->
+	<!-- Sanctum -->
+	<portal_loc world_id="110010000" loc_id="1100100" x="1476.3" y="1595.5" z="572.9"/> <!-- Bind Teleport (Before Obelisk) -->
+	<portal_loc world_id="110010000" loc_id="1100101" x="2006.8076" y="1478.2644" z="592.2286" h="53"/> <!-- Exit Secret Library -->
+	<portal_loc world_id="110010000" loc_id="1100102" x="1366.8" y="1539.5" z="569.0382"/> <!-- Before Statue Cloister Of Kaisinel Entrance -->
+	<portal_loc world_id="110010000" loc_id="1100103" x="1739.5557" y="2063.362" z="517.9073" h="68"/> <!-- Aerolink Exit -->
+	<portal_loc world_id="110010000" loc_id="1100104" x="1867" y="2068" z="517"/> <!-- Exit Steel Rake -->
+	<portal_loc world_id="110010000" loc_id="1100105" x="1444.5857" y="1511.3572" z="573.0719" h="60"/><!-- Nightmare Circus Exit -->
+	<portal_loc world_id="110010000" loc_id="1100108" x="1542.8284" y="1529.326" z="565.9319" h="105"/> <!-- Panesterra Out -->
+	<!-- Cloister of Kaisinel -->
+	<portal_loc world_id="110020000" loc_id="1100200" x="2155.6" y="1566.9" z="1204.897" h="71"/> <!-- Cloister of Kaisinel Entrance -->
+	<!-- Kaisinel Academy -->
+	<portal_loc world_id="110070000" loc_id="1100700" x="459" y="251" z="128"/> <!-- Noratha -->
+	<portal_loc world_id="110070000" loc_id="1100701" x="446" y="257" z="126.97166"/> <!-- Statue Teleporter -->
+	<portal_loc world_id="110070000" loc_id="1100702" x="444.0195" y="251.54189" z="126.97165"/> <!-- Scroll -->
+	<!-- Pandaemonium -->
+	<portal_loc world_id="120010000" loc_id="1200100" x="1455.7977" y="1416.6743" z="177.52625"/> <!-- Bind Teleport (Before Obelisk) -->
+	<portal_loc world_id="120010000" loc_id="1200102" x="1392" y="1060.3" z="206.1"/> <!-- Exit Secret Library -->
+	<portal_loc world_id="120010000" loc_id="1200103" x="981.6009" y="1552.97" z="210.46"/> <!-- Exit Underground Arena -->
+	<portal_loc world_id="120010000" loc_id="1200104" x="1604.9" y="1389.4" z="193.12852"/> <!-- Before Statue Convent of Marchutan Entrance -->
+	<portal_loc world_id="120010000" loc_id="1200105" x="956.5115" y="1095.764" z="195.88034" h="64"/> <!-- Aerolink Exit -->
+	<portal_loc world_id="120010000" loc_id="1200106" x="950" y="1150" z="195" h="60"/> <!-- Exit Steel Rake -->
+	<portal_loc world_id="120010000" loc_id="1200107" x="1275.561" y="1408.0289" z="208.125" h="34"/><!-- Nightmare Circus Exit -->
+	<portal_loc world_id="120010000" loc_id="1200109" x="1222.1316" y="1360.4116" z="208.125" h="55"/> <!-- Panesterra Out -->
+	<!-- Convent of Marchutan -->
+	<portal_loc world_id="120020000" loc_id="1200200" x="1557.2" y="1429.4" z="265.68" h="33"/> <!-- Convent of Marchutan Entrance -->
+	<!-- Marchutan Priory -->
+	<portal_loc world_id="120080000" loc_id="1200800" x="577" y="250" z="94"/> <!-- Scroll -->
+	<portal_loc world_id="120080000" loc_id="1200801" x="542" y="202" z="93.479576"/> <!-- Statue Teleporter -->
+	<portal_loc world_id="120080000" loc_id="1200802" x="548" y="211.31639" z="93.51532" h="9"/> <!-- Virvain -->
+	<!-- Eltnen -->
+	<portal_loc world_id="210020000" loc_id="2100200" x="285.4" y="2750.8" z="270.5"/> <!-- Scroll -->
+	<portal_loc world_id="210020000" loc_id="2100201" x="1343.28" y="350.96" z="348.67"/> <!-- Fire Temple Exit -->
+	<!-- Verteron -->
+	<portal_loc world_id="210030000" loc_id="2100300" x="1690.4" y="1481.4" z="121.4"/> <!-- Scroll -->
+	<portal_loc world_id="210030000" loc_id="2100301" x="2533.8564" y="835.055" z="103.967476" h="59"/> <!-- Haramel Exit -->
+	<portal_loc world_id="210030000" loc_id="2100302" x="2684.1575" y="1068.0" z="200" h="118"/> <!-- Aerdina Exit -->
+	<!-- Heiron -->
+	<portal_loc world_id="210040000" loc_id="2100400" x="2469.6" y="304.2" z="415.62418"/> <!-- Scroll -->
+	<portal_loc world_id="210040000" loc_id="2100401" x="170.42387" y="1619.6165" z="120.853546"/> <!-- Kromede Exit -->
+	<portal_loc world_id="210040000" loc_id="2100402" x="186.27" y="2710.73" z="141.91"/> <!-- Quest : A Flute For the Fixing -->
+	<portal_loc world_id="210040000" loc_id="2100403" x="1896.48" y="2607.92" z="137.672005"/> <!-- Indratu Fortress Exit -->
+	<portal_loc world_id="210040000" loc_id="2100405" x="2019.51" y="1467.34" z="127.19" h="0"/> <!-- Dark Poeta Exit -->
+	<portal_loc world_id="210040000" loc_id="2100406" x="2519.0" y="2563.0" z="201.09375" h="90"/> 	<!-- Secret Passage of Indratu Legion -->
+	<!-- Inggison -->
+	<portal_loc world_id="210050000" loc_id="2100500" x="1375.1648" y="366.27975" z="589.6201" h="22"/> <!-- Before Aerolink -->
+	<portal_loc world_id="210050000" loc_id="2100501" x="543.21" y="715.02" z="484.0491" h="17"/> <!-- Dimaia Gate -->
+	<portal_loc world_id="210050000" loc_id="2100502" x="536.35" y="705.89" z="484.04898" h="76"/> <!-- Dimaia Gate -->
+	<portal_loc world_id="210050000" loc_id="2100503" x="2514.82" y="821.68" z="415.8327" h="17"/> <!-- Phanoe Gate -->
+	<portal_loc world_id="210050000" loc_id="2100504" x="2507.78" y="811.96" z="415.83273" h="76"/> <!-- Phanoe Gate -->
+	<portal_loc world_id="210050000" loc_id="2100505" x="204.9667" y="1386.87" z="266.4227"/> <!-- Udas Temple Exit -->
+	<portal_loc world_id="210050000" loc_id="2100506" x="332.81326" y="1353.1685" z="263.96545"/> <!-- Lower Udas Temple Exit (Elyos) -->
+	<portal_loc world_id="210050000" loc_id="2100507" x="1363.2781" y="2298.1277" z="296.6737"/> <!-- Lower Udas Temple Exit (Asmo) -->
+	<portal_loc world_id="210050000" loc_id="2100508" x="1066.0039" y="2005.531" z="370.1548"/> <!-- Silentera to Agrief Ruins -->
+	<portal_loc world_id="210050000" loc_id="2100509" x="2756.1963" y="2141.9448" z="245.125"/> <!-- Silentera to Hanarkand -->
+	<portal_loc world_id="210050000" loc_id="2100510" x="405.25473" y="2062.1338" z="332.26474"/> <!-- Silentera to Pimeval pass -->
+	<portal_loc world_id="210050000" loc_id="2100511" x="2894.7688" y="357.71338" z="299.4761"/> <!-- Taloc's Hollow Exit -->
+	<portal_loc world_id="210050000" loc_id="2100512" x="1725.530029" y="2251.399902" z="328.294006"/> <!-- Ingison Fortress 2011 -->
+	<portal_loc world_id="210050000" loc_id="2100513" x="1081.3258" y="1567.8789" z="407.9063"/> <!-- Esoterrace Exit -->
+	<portal_loc world_id="210050000" loc_id="2100514" x="892.479" y="1992.595" z="340.7177"/> <!-- Ingison Fortress 2021 --> 
+    <!-- Ingison 4.8 gate -->
+	<portal_loc world_id="210050000" loc_id="2100515" x="1080.4243" y="1520.0292" z="405.9088"/>
+	<portal_loc world_id="210050000" loc_id="2100516" x="2360.8281" y="372.30887" z="471.02844"/> 
+	<portal_loc world_id="210050000" loc_id="2100517" x="2102.071" y="1951.1805" z="310.5"/> 
+	<portal_loc world_id="210050000" loc_id="2100518" x="456.83377" y="159.83083" z="459.6144"/> 
+	<portal_loc world_id="210050000" loc_id="2100519" x="1745.573" y="1233.7043" z="379.47025"/> 
+	<!-- Theobomos -->
+	<portal_loc world_id="210060000" loc_id="2100600" x="2238.46" y="2284.2185" z="50.013657"/> <!-- Scroll -->
+	<portal_loc world_id="210060000" loc_id="2100601" x="2978.09" y="193.51" z="172.14"/> <!-- Theobomos Lab Exit -->
+	<portal_loc world_id="210060000" loc_id="2100602" x="2682.2166" y="833.9273" z="138.35718" h="43"/> <!-- Adma Stronghold Exit 4.7 -->
+	<portal_loc world_id="210060000" loc_id="2100603" x="2783.3096" y="244.3353" z="204.73453" h="60"/> <!-- Adma Stronghold To Theobomos Stronghold 4.9 -->
+	<!-- Morheim -->
+	<portal_loc world_id="220020000" loc_id="2200200" x="270.9" y="2339.6" z="443.74"/> <!-- Scroll -->
+	<portal_loc world_id="220020000" loc_id="2200201" x="1592.178" y="977.2572" z="140.75"/> <!-- Fire Temple Exit -->
+	<portal_loc world_id="220020000" loc_id="2200202" x="2401.9648" y="570.7738" z="329.09976"/> <!-- Quest : Symbol Of Mau Hero -->
+	<portal_loc world_id="220020000" loc_id="2200203" x="1243.5" y="263.9" z="531.3"/> <!-- Quest : The Hand Behind The IceClaw Exit -->
+	<portal_loc world_id="220020000" loc_id="2200204" x="1252.9" y="266" z="534.2"/> <!-- Quest : The Hand Behind The IceClaw Entrance -->
+	<portal_loc world_id="220020000" loc_id="2200205" x="1685.6427" y="1159.2311" z="200.3536"/> <!-- Wind Room Exit -->
+	<portal_loc world_id="220020000" loc_id="2200206" x="1668.0662" y="1146.7683" z="200.3536"/> <!-- Water Room Exit -->
+	<portal_loc world_id="220020000" loc_id="2200207" x="1690.505" y="1139.1676" z="200.3536"/> <!-- Fire Room Exit -->
+	<portal_loc world_id="220020000" loc_id="2200208" x="2157.6121" y="2095.8579" z="598.1250" h="80"/> <!-- Teleport Stone Statue -->
+	<!-- Altgard -->
+	<portal_loc world_id="220030000" loc_id="2200300" x="1661.2" y="1816.3" z="253.712"/> <!-- Scroll -->
+	<portal_loc world_id="220030000" loc_id="2200301" x="2907.624" y="1464.1887" z="252.59264" h="36"/> <!-- Haramel Exit -->
+	<portal_loc world_id="220030000" loc_id="2200302" x="2453.0" y="2553.2" z="316.3"/> <!-- Bregirun Exit -->
+	<!-- Beluslan -->
+	<portal_loc world_id="220040000" loc_id="2200400" x="321.8" y="335.0" z="229.9"/> <!-- Scroll -->
+	<portal_loc world_id="220040000" loc_id="2200401" x="1605.27" y="2729.9" z="705.345"/> <!-- Draupnir Cave Exit -->
+	<portal_loc world_id="220040000" loc_id="2200402" x="1802.9617" y="1769.8645" z="657.4015"/>
+	<portal_loc world_id="220040000" loc_id="2200403" x="1929.999" y="507.82068" z="412.25"/>
+	<portal_loc world_id="220040000" loc_id="2200404" x="593" y="2535" z="289"/>
+	<portal_loc world_id="220040000" loc_id="2200405" x="543.44214" y="2500.1926" z="286.55652"/>
+	<portal_loc world_id="220040000" loc_id="2200406" x="2209.6526" y="2926.3257" z="699.80756"/>
+	<portal_loc world_id="220040000" loc_id="2200407" x="1466.8792" y="1947.9192" z="588.06555"/>
+	<portal_loc world_id="220040000" loc_id="2200408" x="2420.12" y="2061.31" z="579.7" h="0"/> <!-- Dark Poeta Exit -->
+	<!-- Brusthonin -->
+	<portal_loc world_id="220050000" loc_id="2200500" x="1409.85" y="2013.62" z="51.5"/>
+	<!-- Gelkmaros -->
+	<portal_loc world_id="220070000" loc_id="2200700" x="1888.2524" y="2847.2727" z="554.9964" h="98"/> <!-- Before Aerolink Gelkmaros -->
+	<portal_loc world_id="220070000" loc_id="2200701" x="2657.23" y="2195.18" z="495.9283" h="73"/>
+	<portal_loc world_id="220070000" loc_id="2200702" x="2663.65" y="2200.99" z="495.9283" h="15"/>
+	<portal_loc world_id="220070000" loc_id="2200703" x="724.96" y="2279.15" z="389.64566" h="79"/>
+	<portal_loc world_id="220070000" loc_id="2200704" x="728.87" y="2286.43" z="389.6456" h="21"/>
+	<portal_loc world_id="220070000" loc_id="2200705" x="2274.8582" y="1602.2708" z="310.4504"/>
+	<portal_loc world_id="220070000" loc_id="2200706" x="2261.6108" y="1728.4307" z="309.1358"/>
+	<portal_loc world_id="220070000" loc_id="2200707" x="1448.3127" y="910.9731" z="294.02194"/>
+	<portal_loc world_id="220070000" loc_id="2200708" x="691" y="623" z="385"/>
+	<portal_loc world_id="220070000" loc_id="2200709" x="1623" y="1135" z="353.375"/>
+	<portal_loc world_id="220070000" loc_id="2200710" x="2934" y="882" z="310.25"/>
+	<portal_loc world_id="220070000" loc_id="2200711" x="979.4631" y="2569.5842" z="242.23325"/>
+	<portal_loc world_id="220070000" loc_id="2200712" x="1878.780029" y="1027" z="330.270996"/>
+	<portal_loc world_id="220070000" loc_id="2200713" x="1196.989990" y="802.956970" z="313.450012"/>
+	<portal_loc world_id="220070000" loc_id="2200714" x="1783.3955" y="1815.8047" z="405.47815"/>
+    <!-- Gelkmaros 4.8 gate -->
+	<portal_loc world_id="220070000" loc_id="2200715" x="1798.0381" y="1883.0833" z="404.25"/>
+	<portal_loc world_id="220070000" loc_id="2200716" x="950.91095" y="1244.2458" z="270.618"/>
+	<portal_loc world_id="220070000" loc_id="2200717" x="2260.1975" y="1169.5455" z="311.8986"/>
+	<portal_loc world_id="220070000" loc_id="2200718" x="566.5945" y="2567.5693" z="401.1085"/>
+	<portal_loc world_id="220070000" loc_id="2200719" x="2906.5947" y="2478.75" z="505.1833"/>
+	<!-- Conquest/Offering Teleporter 4.8 -->
+	<portal_loc world_id="220070000" loc_id="2200720" x="1888.306" y="2852.0967" z="554.98364" h="1"/> <!-- Gelkmaros Fortress -->
+	<portal_loc world_id="220070000" loc_id="2200721" x="898.8725" y="1012.3971" z="313.33423" h="91"/> <!-- Twilight Drana Farm -->
+	<portal_loc world_id="220070000" loc_id="2200722" x="2823.9233" y="2658.132" z="496.44995" h="114"/> <!-- Dragonrest -->
+	<portal_loc world_id="220070000" loc_id="2200723" x="361.01465" y="2608.7925" z="442.69446" h="112"/> <!-- Strigik Forest -->
+	<portal_loc world_id="220070000" loc_id="2200724" x="2644.9348" y="2837.2612" z="459.6454" h="5"/> <!-- Dragonspine Rise -->
+	<portal_loc world_id="220070000" loc_id="2200725" x="1880.2594" y="1219.0585" z="320.5" h="89"/>
+	<!-- Nochsana Training Camp -->
+	<portal_loc world_id="300030000" loc_id="3000300" x="513" y="668" z="331" h="0"/>
+	<portal_loc world_id="400010000" loc_id="3000301" x="2888" y="758" z="1498" h="0"/>
+	<portal_loc world_id="400010000" loc_id="3000302" x="877" y="3080" z="1645" h="0"/>
+	<!-- Steel Rake -->
+	<portal_loc world_id="300100000" loc_id="3001000" x="234.7316" y="505.87134" z="948.6736"/>
+	<portal_loc world_id="300100000" loc_id="3001002" x="461.5" y="489.6" z="877.8"/>
+	<portal_loc world_id="300100000" loc_id="3001003" x="461.5" y="485" z="877.8"/>
+	<portal_loc world_id="300100000" loc_id="3001004" x="283.3702" y="453.40396" z="902.62274"/>
+	<portal_loc world_id="300100000" loc_id="3001005" x="283.48557" y="456.99396" z="952.59296"/>
+	<portal_loc world_id="300100000" loc_id="3001006" x="659.8103" y="509.08694" z="867.7978"/>
+	<portal_loc world_id="300100000" loc_id="3001007" x="709.256" y="459.05927" z="1015.1851"/>
+	<portal_loc world_id="300100000" loc_id="3001008" x="384.5766" y="529.6599" z="1072.1212" h="89"/>
+	<portal_loc world_id="300100000" loc_id="3001009" x="729" y="509" z="1013"/>
+	<portal_loc world_id="300100000" loc_id="3001010" x="719" y="509" z="1013"/>
+	<!-- Steel Rake Cabin -->
+	<portal_loc world_id="300460000" loc_id="3004600" x="235.97552" y="506.31268" z="948.6735" h="60"/>
+	<portal_loc world_id="300460000" loc_id="3004601" x="702.11993" y="500.80948" z="939.60675" h="60"/>
+	<!-- Haramel -->
+	<portal_loc world_id="300200000" loc_id="3002000" x="172" y="20" z="144.22548"/>
+	<portal_loc world_id="300200000" loc_id="3002001" x="220" y="213" z="126.68472"/>
+	<!-- Chantra Dredgion -->
+	<portal_loc world_id="300210000" loc_id="3002100" x="392.62808" y="711.1573" z="401.7698"/>
+	<portal_loc world_id="300210000" loc_id="3002101" x="578.1164" y="711.2476" z="401.7698"/>
+	<portal_loc world_id="300210000" loc_id="3002102" x="484.1897" y="495.58765" z="397.40155"/>
+	<portal_loc world_id="300210000" loc_id="3002103" x="485.5936" y="859.6671" z="417.98563"/>
+	<!-- Terath Dredgion -->
+	<portal_loc world_id="300440000" loc_id="3004400" x="485.5936" y="859.6671" z="417.98563"/>
+	<portal_loc world_id="300440000" loc_id="3004401" x="511.1256" y="493.20822" z="398.06238" h="60"/>
+	<portal_loc world_id="300440000" loc_id="3004402" x="581.3019" y="688.2934" z="402.53094" h="32"/>
+	<portal_loc world_id="300440000" loc_id="3004403" x="459.3706" y="493.71985" z="398.0965"/>
+	<portal_loc world_id="300440000" loc_id="3004404" x="389.01245" y="687.9215" z="402.6417" h="31"/>
+	<!-- Kromede's Trial -->
+	<portal_loc world_id="300230000" loc_id="3002300" x="244.98566" y="244.14162" z="189.52058"/>
+	<portal_loc world_id="300230000" loc_id="3002301" x="593.46" y="774" z="215.58"/>
+	<!-- Fire Temple -->
+	<portal_loc world_id="320100000" loc_id="3201000" x="148.256" y="460.857" z="141.713"/>
+	<!-- Reshanta -->
+	<portal_loc world_id="400010000" loc_id="4000100" x="2867" y="1036" z="1528"/>
+	<portal_loc world_id="400010000" loc_id="4000101" x="1078" y="2839" z="1636"/>
+	<portal_loc world_id="400010000" loc_id="4000102" x="2204.443" y="1928.3447" z="2303.0366"/>
+	<portal_loc world_id="400010000" loc_id="4000103" x="2845.921" y="931.41455" z="1533.6484"/>
+	<portal_loc world_id="400010000" loc_id="4000104" x="2876" y="1024.9519" z="1527.9968"/>
+	<portal_loc world_id="400010000" loc_id="4000105" x="2962.973" y="1040.1316" z="1533.6783"/>
+	<portal_loc world_id="400010000" loc_id="4000106" x="1078" y="2839" z="1636"/>
+	<portal_loc world_id="400010000" loc_id="4000107" x="932" y="2832" z="1639.1885"/>
+	<portal_loc world_id="400010000" loc_id="4000108" x="1101.1371" y="2975.3772" z="1638.5487"/>
+	<portal_loc world_id="400010000" loc_id="4000109" x="2784.99" y="2664.03" z="1486.7"/>
+	<portal_loc world_id="400010000" loc_id="4000110" x="1341.6997" y="1242.4253" z="1496.5812"/>
+	<portal_loc world_id="400010000" loc_id="4000111" x="707.98" y="2919.22" z="2877.51"/>
+	<!-- Pernon -->
+	<portal_loc world_id="710010000" loc_id="7100100" x="1030.3135" y="1536.6667" z="97.99279"/> <!-- Bind Teleport (Before Obelisk) -->
+	<portal_loc world_id="710010000" loc_id="7100101" x="1044.7079" y="1521.3538" z="97.875" h="86"/> <!-- Before the Aerolink -->
+	<!-- Theobomos Lab -->
+	<portal_loc world_id="310110000" loc_id="3101100" x="476.96606" y="201.32736" z="169.98848"/>
+	<portal_loc world_id="310110000" loc_id="3101101" x="576.17" y="490.58" z="196.73"/>
+	<!-- Abyssal Splinter -->
+	<portal_loc world_id="300220000" loc_id="3002200" x="707.06085" y="159.32991" z="453.47333"/>
+	<!-- Unstable Splinterpath -->
+	<portal_loc world_id="300600000" loc_id="3006000" x="707.06085" y="159.32991" z="453.47333"/>
+	<portal_loc world_id="300600000" loc_id="3006001" x="295.75" y="735.73" z="215.8" h="60"/>
+	<portal_loc world_id="300600000" loc_id="3006002" x="336.6" y="701.66" z="215.9" h="90"/>
+	<portal_loc world_id="300600000" loc_id="3006003" x="370.1" y="740.66" z="216.9" h="120"/>
+	<!-- Taloc's Hollow -->
+	<portal_loc world_id="300190000" loc_id="3001900" x="199.87788" y="212.72118" z="1098.889"/>
+	<!-- Udas Temple -->
+	<portal_loc world_id="300150000" loc_id="3001500" x="635.11" y="647.73" z="133.23"/>
+	<portal_loc world_id="300150000" loc_id="3001501" x="561.842" y="222.755" z="134.628" h="0"/>
+	<portal_loc world_id="300150000" loc_id="3001502" x="636.706" y="431.64" z="137.308" h="0"/>
+	<!-- Lower Udas Temple -->
+	<portal_loc world_id="300160000" loc_id="3001600" x="1145" y="283" z="115.53778"/>
+	<portal_loc world_id="300160000" loc_id="3001601" x="1343.7188" y="810.4363" z="113.8" h="13"/>
+	<!-- Padmarashka's Cave -->
+	<portal_loc world_id="320150000" loc_id="3201500" x="386.2782" y="505.15237" z="65.28644"/>
+	<!-- Silentera Canyon -->
+	<portal_loc world_id="600010000" loc_id="6000100" x="471.12662" y="460.05142" z="330.0077"/>
+	<portal_loc world_id="600010000" loc_id="6000101" x="480" y="1094" z="334.7"/>
+	<portal_loc world_id="600010000" loc_id="6000102" x="1412" y="767" z="313"/>
+	<!-- Aetherogenetics Lab -->
+	<portal_loc world_id="310050000" loc_id="3100500" x="348.7295" y="235.60219" z="147.67067"/>
+	<!-- Left Wing Chamber -->
+	<portal_loc world_id="300080000" loc_id="3000800" x="672.09576" y="606.1819" z="321.19"/>
+	<!-- Right Wing Chamber -->
+	<portal_loc world_id="300090000" loc_id="3000900" x="265.984" y="387.77493" z="103.24291"/>
+	<!-- Sulfur Tree Nest -->
+	<portal_loc world_id="300060000" loc_id="3000600" x="462.352" y="345.609" z="162.817"/>
+	<!-- Chamber Of Roah -->
+	<portal_loc world_id="300070000" loc_id="3000700" x="503.74" y="395.70" z="94.34"/>
+	<!-- Krotan Chamber -->
+	<portal_loc world_id="300140000" loc_id="3001400" x="527.79846" y="109.320755" z="175.92393"/>
+	<!-- Kysis Chamber -->
+	<portal_loc world_id="300120000" loc_id="3001200" x="527.33484" y="122.05632" z="175.95427"/>
+	<!-- Miren Chamber -->
+	<portal_loc world_id="300130000" loc_id="3001300" x="527.5752" y="119.29071" z="175.89603"/>
+	<!-- Asteria Chamber -->
+	<portal_loc world_id="300050000" loc_id="3000500" x="469.343" y="567.713" z="201.732"/>
+	<!-- Crucible Challenge -->
+	<portal_loc world_id="300320000" loc_id="3003200" x="357.10208" y="1662.702" z="95.9803"/>
+	<!-- Triniel Arena -->
+	<portal_loc world_id="320090000" loc_id="3200900" x="276" y="293" z="163"/>
+	<!-- Azoturan Fortress -->
+	<portal_loc world_id="310100000" loc_id="3101000" x="304.16013" y="323.43713" z="1021.4955"/>
+	<!-- Empyrean Crucible -->
+	<portal_loc world_id="300300000" loc_id="3003000" x="354.7868" y="349.34567" z="96.09097"/>
+	<!-- Sarpan -->
+	<portal_loc world_id="600020000" loc_id="6000200" x="1511.9075" y="1559.2152" z="1359.1228" h="9"/> <!-- Ship Asmodian -->
+	<portal_loc world_id="600020000" loc_id="6000201" x="1219.1166" y="1361.548" z="1358.9019" h="10"/> <!-- Ship Elyos -->
+	<portal_loc world_id="600020000" loc_id="6000202" x="1401.5563" y="291.92883" z="626.2866" h="10"/> <!-- Exit Elementis Forest and Argent Manor -->
+	<portal_loc world_id="600020000" loc_id="6000203" x="1528.491" y="1569.512" z="611.9866" h="10"/> <!-- Exit Ship Asmodian -->
+	<portal_loc world_id="600020000" loc_id="6000204" x="1212.4625" y="1355.4341" z="612.4769" h="70"/> <!-- Exit Ship Elyos -->
+	<portal_loc world_id="600020000" loc_id="6000205" x="1450.0873" y="1393.8665" z="600.1926" h="12"/> <!-- Entrance Garnon's Office -->
+	<portal_loc world_id="600020000" loc_id="6000206" x="1446.4891" y="1391.568" z="600.1927" h="72"/> <!-- Exit Garnon's Office -->
+	<portal_loc world_id="600020000" loc_id="6000207" x="2782.614" y="1377.3672" z="207.125" h="76"/> <!-- Entrance Twisted Land -->
+	<portal_loc world_id="600020000" loc_id="6000208" x="2188.931" y="1589.8826" z="399.36636" h="49"/> <!-- Exit Garnon's Office -->
+	<portal_loc world_id="600020000" loc_id="6000209" x="2733.3938" y="2422.6194" z="601.65533" h="90"/> <!-- Exit Raksang -->
+	<portal_loc world_id="600020000" loc_id="6000210" x="1282" y="1616" z="586" h="59"/> <!-- Kamar Fortress -->
+	<portal_loc world_id="600020000" loc_id="6000211" x="538.3228" y="1050.5643" z="657.125" h="60"/> <!-- Aturam Sky Fortress Exit -->
+	<portal_loc world_id="600020000" loc_id="6000212" x="2329.652" y="2367.9143" z="541.6087" h="36"/> <!-- Muada's Trencher Exit-->
+	<portal_loc world_id="600020000" loc_id="6000213" x="648.9753" y="1186.955" z="641.375" h="116"/> <!-- Isphrael's Tract Exit -->
+	<portal_loc world_id="600020000" loc_id="6000214" x="2652.199" y="1100.5045" z="200.46848" h="88"/> <!-- Protector's Realm Exit -->
+	<portal_loc world_id="600020000" loc_id="6000215" x="2598.405" y="542.151" z="646.7917" h="90"/> <!-- Hero's Discus Teleporter -->
+	<portal_loc world_id="600020000" loc_id="6000216" x="2566.1833" y="478.5331" z="645.33624"/> <!-- Hero's Discus Teleporter -->
+	<!-- Adma Stronghold -->
+	<portal_loc world_id="320130000" loc_id="3201300" x="476.61665" y="832.25867" z="165.14975"/>
+	<portal_loc world_id="320130000" loc_id="3201301" x="450.66864" y="199.70248" z="167.84444"/>
+	<portal_loc world_id="320130000" loc_id="3201302" x="585.3914" y="757.16077" z="198.61185"/>
+	<portal_loc world_id="210060000" loc_id="3201303" x="2248.0725" y="2289.3433" z="51.385"/>
+	<!-- Oriel -->
+	<portal_loc world_id="700010000" loc_id="7000100" x="1274.8541" y="1867.3999" z="97.44662" h="41"/> <!-- Before Aerolink -->
+	<portal_loc world_id="700010000" loc_id="7000101" x="1294" y="1863" z="97.635" h="71"/> <!-- Oriel Scroll -->
+	<!-- Alquimia Research Center -->
+	<portal_loc world_id="320110000" loc_id="3201100" x="602.62976" y="526.6474" z="200.05792"/>
+	<!-- Dark Poeta -->
+	<portal_loc world_id="300040000" loc_id="3000400" x="1225.9075" y="419.7187" z="140.18988"/>
+	<portal_loc world_id="300040000" loc_id="3000401" x="1188.80707" y="1241.4151" z="143.85065"/>
+	<!-- Sky Temple Interior -->
+	<portal_loc world_id="320050000" loc_id="3200500" x="306.94183" y="433.35468" z="416.82278"/>
+	<portal_loc world_id="320050000" loc_id="3200501" x="472.06757" y="114.2766" z="214.81421"/>
+	<portal_loc world_id="320050000" loc_id="3200502" x="101.678894" y="24.675533" z="611.0359"/>
+	<!-- Shadow Court -->
+	<portal_loc world_id="320120000" loc_id="3201200" x="407.6533" y="399.1897" z="245.10768"/>
+	<!-- Aerdina -->
+	<portal_loc world_id="310030000" loc_id="3100300" x="270.5" y="174.3" z="204.3"/>
+	<!-- Geranaia -->
+	<portal_loc world_id="310040000" loc_id="3100400" x="274.9307" y="167.90654" z="204.34718"/>
+	<!-- Bregiron -->
+	<portal_loc world_id="320030000" loc_id="3200300" x="274.2" y="171.7" z="204.3"/>
+	<!-- Nidalber -->
+	<portal_loc world_id="320040000" loc_id="3200400" x="277.2907" y="170.9613" z="204.3471"/>
+	<!-- Sliver of Darkness -->
+	<portal_loc world_id="310070000" loc_id="3100700" x="338" y="101" z="1191"/>
+	<!-- Space of Destiny -->
+	<portal_loc world_id="320070000" loc_id="3200700" x="257.5292" y="245" z="129"/>
+	<!-- Draupnir Cave -->
+	<portal_loc world_id="320080000" loc_id="3200800" x="491" y="373" z="622"/>
+	<!-- Indratu Fortress -->
+	<portal_loc world_id="310090000" loc_id="3100900" x="562.4863" y="335.8061" z="1015.81885"/>
+	<!-- Beshmundir Temple -->
+	<portal_loc world_id="300170000" loc_id="3001700" x="1480.8746" y="255.21692" z="243.45709"/>
+	<portal_loc world_id="300170000" loc_id="3001701" x="534.9943" y="1333.4729" z="223.52919"/>
+	<!-- Esoterrace -->
+	<portal_loc world_id="300250000" loc_id="3002500" x="333" y="437" z="326"/>
+	<!-- Elementis Forest -->
+	<portal_loc world_id="300260000" loc_id="3002600" x="141.33386" y="651.8774" z="238.87491"/>
+	<!-- Argent Manor -->
+	<portal_loc world_id="300270000" loc_id="3002700" x="995.0055" y="1207.2366" z="65.640015" h="90"/> <!-- Argent Manor Entrance -->
+	<portal_loc world_id="300270000" loc_id="3002701" x="864.9635" y="1258.3766" z="195.05682" h="90"/> <!-- Celestial Observatory Entrance -->
+	<portal_loc world_id="300270000" loc_id="3002702" x="1006.16895" y="1306.3931" z="94.34706" h="90"/> <!-- Celestial Observatory Exit -->
+	<!-- Aturam Sky Fortress -->
+	<portal_loc world_id="300240000" loc_id="3002400" x="555.591" y="536.1958" z="600.8177" h="59"/> <!-- Aturam Sky Fortress Entrance -->
+	<portal_loc world_id="300240000" loc_id="3002401" x="691.5343" y="457.017" z="655.5343"/> <!-- Lift Controls -->
+	<portal_loc world_id="300240000" loc_id="3002402" x="636.2434" y="448.5154" z="655.455" h="59"/> <!-- Balaur Teleporter -->
+	<!-- Raksang -->
+	<portal_loc world_id="300310000" loc_id="3003100" x="849.510" y="949.294" z="1206.713" h="66"/>
+	<portal_loc world_id="300310000" loc_id="3003101" x="758.9605" y="658.897" z="841.1138" h="54"/>
+	<portal_loc world_id="300310000" loc_id="3003102" x="812.7217" y="830.3613" z="733.6704"/>
+	<portal_loc world_id="300310000" loc_id="3003103" x="655.78046" y="756.3882" z="724.87537"/>
+	<portal_loc world_id="300310000" loc_id="3003104" x="813.1753" y="942.78143" z="791.98914" h="37"/>
+	<portal_loc world_id="300310000" loc_id="3003105" x="547.6837" y="698.3522" z="732.88904"/>
+	<portal_loc world_id="300310000" loc_id="3003106" x="523.8513" y="426.3763" z="927.3093"/>
+	<portal_loc world_id="300310000" loc_id="3003107" x="711.10895" y="312.82013" z="910.6781"/>
+	<portal_loc world_id="300310000" loc_id="3003108" x="728.5471" y="286.48114" z="910.6781" h="89"/>
+	<portal_loc world_id="300310000" loc_id="3003109" x="384.86487" y="452.32016" z="120.786255" h="64"/>
+	<portal_loc world_id="300310000" loc_id="3003110" x="1069.9468" y="989.0666" z="138.74077" h="88"/>
+	<portal_loc world_id="300310000" loc_id="3003111" x="729.80566" y="296.17508" z="910.6781" h="29"/>
+	<!-- Tiamaranta -->
+	<portal_loc world_id="600030000" loc_id="6000300" x="316.9431" y="829.24207" z="315.5" h="83"/> <!-- Aetheric Field Teleport Device (Heart Of Fissure)-->
+	<portal_loc world_id="600030000" loc_id="6000301" x="318.846" y="833.83295" z="315.5" h="23"/>  <!-- Aetheric Field Teleport Device (Heart Of Fissure)-->
+	<portal_loc world_id="600030000" loc_id="6000302" x="302.4943" y="1712.6901" z="295.93" h="119"/> <!-- Garnon's Secret Chamber Entrance -->
+	<portal_loc world_id="600030000" loc_id="6000303" x="296.99164" y="1712.8727" z="295.94327" h="59"/> <!-- Garnon's Secret Chamber Exit -->
+	<portal_loc world_id="600030000" loc_id="6000304" x="131.3827" y="2766.5945" z="293.44507" h="102"/> <!-- Exit Rentus Base -->
+	<portal_loc world_id="600030000" loc_id="6000305" x="1704.0166" y="465.8704" z="257.45612" h="12"/> <!-- Notus Outpost -->
+	<portal_loc world_id="600030000" loc_id="6000306" x="2365.6956" y="356.41937" z="239.875" h="115"/> <!-- Aetheric Field Teleport Device (Heart Of Gravity) -->
+	<portal_loc world_id="600030000" loc_id="6000307" x="2360.3394" y="358.0107" z="239.8752" h="55"/> <!-- Aetheric Field Teleport Device (Heart Of Gravity) -->
+	<portal_loc world_id="600030000" loc_id="6000308" x="861.32104" y="2685.3408" z="253.91064" h="59"/> <!-- Aetheric Field Teleport Device (Heart Of Wrath) -->
+	<portal_loc world_id="600030000" loc_id="6000309" x="866.77246" y="2685.1882" z="253.80756" h="118"/> <!-- Aetheric Field Teleport Device (Heart Of Wrath) -->
+	<portal_loc world_id="600030000" loc_id="6000310" x="84" y="1733" z="296"/> <!-- Rancora Fortress -->
+	<portal_loc world_id="600030000" loc_id="6000311" x="1522.98" y="888.43" z="233.5"/> <!-- West Eye Guard Post Exit -->
+	<portal_loc world_id="600030000" loc_id="6000312" x="1523.31" y="974.49" z="231.5"/> <!-- Naduka Legion Garrison Entrance -->
+	<portal_loc world_id="600030000" loc_id="6000313" x="2086" y="1111.35" z="99.2"/> <!-- Naduka Legion Garrison Exit -->
+	<portal_loc world_id="600030000" loc_id="6000314" x="1524.5" y="2104.8" z="233.8"/> <!-- Basrasa Legion Garrison Entrance -->
+	<portal_loc world_id="600030000" loc_id="6000315" x="1526.61" y="2183" z="232.5"/> <!-- Basrasa Legion Garrison Exit -->
+	<portal_loc world_id="600030000" loc_id="6000316" x="2083.3" y="1538.4" z="209.2"/> <!-- Satra Legion Garrison Entrance -->
+	<portal_loc world_id="600030000" loc_id="6000317" x="2163.23" y="1538.6" z="234"/> <!-- Satra Legion Garrison Exit -->
+	<portal_loc world_id="600030000" loc_id="6000318" x="2048" y="1131.7" z="99.4"/> <!-- Naduka Legion Garrison Gate -->
+	<portal_loc world_id="600030000" loc_id="6000319" x="1232.8745" y="1815.1849" z="45.003716" h="48"/> <!-- Basrasa Legion Garrison Exit -->
+	<portal_loc world_id="600030000" loc_id="6000320" x="1264.5" y="1785" z="44.3"/> <!-- Basrasa Legion Garrison Gate -->
+	<portal_loc world_id="600030000" loc_id="6000321" x="2841.2288" y="334.61966" z="93.44329"/> <!-- Stonegate Of Ativas' Hideout -->
+	<portal_loc world_id="600030000" loc_id="6000322" x="2848.9778" y="349.06592" z="93.75333"/> <!-- Stonegate Of Ativas' Hideout -->
+	<portal_loc world_id="600030000" loc_id="6000323" x="462.89407" y="2795.026" z="82.79026"/> <!-- Stonegate Of Tatar's Hideout -->
+	<portal_loc world_id="600030000" loc_id="6000324" x="437.72116" y="2786.164" z="90.14082"/> <!-- Stonegate Of Tatar's Hideout -->
+	<portal_loc world_id="600030000" loc_id="6000325" x="2520.7637" y="2571.152" z="336.125" h="4"/> <!-- Aetheric Field Teleport Device (Heart Of Petrification) -->
+	<portal_loc world_id="600030000" loc_id="6000326" x="2514.127" y="2569.489" z="336.125" h="64"/> <!-- Aetheric Field Teleport Device (Heart Of Petrification) -->
+	<portal_loc world_id="600030000" loc_id="6000327" x="2853.7637" y="2396.5728" z="340.5" h="40"/> <!-- Aetheric Field Teleport Device (Heart Of Petrification) -->
+	<portal_loc world_id="600030000" loc_id="6000328" x="2857.0178" y="2390.6677" z="340.5" h="100"/> <!-- Aetheric Field Teleport Device (Heart Of Petrification) -->
+	<portal_loc world_id="600030000" loc_id="6000329" x="1524.3632" y="1248.2109" z="245.49893" h="90"/> <!--  Western Tiamaranta's Eye Exit (Elyos) -->
+	<portal_loc world_id="600030000" loc_id="6000330" x="1526.4515" y="1787.3564" z="249.22559" h="30"/> <!--  Western Tiamaranta's Eye Exit (Asmodians) -->
+	<portal_loc world_id="600030000" loc_id="6000331" x="2040.849" y="198.43971" z="275.59943" h="111"/> <!--  Abyss Gap -->
+	<portal_loc world_id="600030000" loc_id="6000332" x="1969.7994" y="609.5068" z="223.83163" h="60"/> <!--  Abyss Gap -->
+	<portal_loc world_id="600030000" loc_id="6000333" x="1519.3768" y="746.3722" z="227.97675" h="76"/> <!--  Abyss Gap -->
+	<portal_loc world_id="600030000" loc_id="6000334" x="1915.6997" y="673.67377" z="221.75" h="51"/> <!--  Abyss Gap -->
+	<portal_loc world_id="600030000" loc_id="6000335" x="2438.8093" y="178.50699" z="319.5" h="116"/> <!-- Aetheric Field Teleport Device (Heart Of Gravity) -->
+	<portal_loc world_id="600030000" loc_id="6000336" x="2428.4673" y="177.67656" z="319.21265" h="40"/> <!-- Aetheric Field Teleport Device (Heart Of Gravity) -->
+	<portal_loc world_id="600030000" loc_id="6000337" x="2115.51" y="222.08" z="378" h="33"/> <!-- Arazitan Island -->
+	<portal_loc world_id="600030000" loc_id="6000338" x="876.60913" y="917.10236" z="226.07968" h="2"/> <!-- Abyss Gap -->
+	<portal_loc world_id="600030000" loc_id="6000339" x="1704.7073" y="516.4528" z="257.02734" h="2"/> <!-- Abyss Gap -->
+	<portal_loc world_id="600030000" loc_id="6000340" x="430.27" y="77.46" z="396.55" h="115"/> <!-- Abyss Gap -->
+	<portal_loc world_id="600030000" loc_id="6000341" x="509.5" y="202.14" z="361.36" h="5"/> <!-- Abyss Gap -->
+	<portal_loc world_id="600030000" loc_id="6000342" x="1165.96" y="264.16" z="206.87" h="73"/> <!-- Shrouded Grotto Exit -->
+	<portal_loc world_id="600030000" loc_id="6000341" x="2121.0518" y="322.63324" z="372.69708" h="97"/> <!-- Abyss Gap -->
+	<portal_loc world_id="600030000" loc_id="6000350" x="142.80214" y="1593.751" z="295.70828" h="1"/> <!-- Tiamaranta (Elyos) -->
+	<portal_loc world_id="600030000" loc_id="6000351" x="148.58093" y="1879.1094" z="295.04648" h="1"/> <!-- Tiamaranta (Asmodians) -->
+	<!-- Tiamaranta's Eye -->
+	<portal_loc world_id="600040000" loc_id="6000400" x="754.1152" y="207.75677" z="1201.5183" h="89"/> <!-- Elyos Teleporter -->
+	<portal_loc world_id="600040000" loc_id="6000401" x="754.5926" y="1328.1089" z="1201.5183" h="30"/> <!-- Asmodians Teleporter -->
+	<portal_loc world_id="600040000" loc_id="6000402" x="754" y="36.5" z="1197"/> <!-- Western Tiamaranta's Eye Entrance -->
+	<portal_loc world_id="600040000" loc_id="6000403" x="754.7" y="1499.4" z="1197"/> <!-- Eastern Tiamaranta's Eye Entrance -->
+	<portal_loc world_id="600040000" loc_id="6000404" x="100.26" y="768.52" z="1211.47" h="89"/> <!-- Exit Tiamat StrongHold -->
+	<!-- Satra Treasure Hoard -->
+	<portal_loc world_id="300470000" loc_id="3004700" x="510.88458" y="180.61432" z="158.4966" h="30"/> <!-- Satra Treasure Hoard Entrance -->
+	<portal_loc world_id="300470000" loc_id="3004701" x="496.8262" y="666.7777" z="178"/> <!-- Satra Treasure Hoard Entrance -->
+	<portal_loc world_id="300470000" loc_id="3004702" x="496.8262" y="658.7777" z="178"/> <!-- Satra Treasure Hoard Entrance -->
+	<!-- Muada's Trencher -->
+	<portal_loc world_id="300380000" loc_id="3003800" x="455.688" y="622.2912" z="123.13193" h="86"/> <!-- Muada's Trencher Entrance -->
+	<!-- Poeta -->
+	<portal_loc world_id="210010000" loc_id="2100100" x="806.12335" y="1242.6829" z="118.98627" h="109"/> <!-- Akarios Village -->
+	<portal_loc world_id="210010000" loc_id="2100101" x="426.63187" y="1740.2509" z="119.925865" h="78"/> <!-- Melponeh's Campsite -->
+	<!-- Ishalgen -->
+	<portal_loc world_id="220010000" loc_id="2200100" x="940.7842" y="1707.3416" z="259.6728" h="99"/> <!-- Aldelle Village -->
+	<portal_loc world_id="220010000" loc_id="2200101" x="527.03973" y="2449.6787" z="281.59262" h="57"/> <!-- Anturoon Crossing -->
+	<!-- Isphrael's Tract -->
+	<portal_loc world_id="300390000" loc_id="3003900" x="273.96478" y="217.55084" z="207.5269" h="60"/>
+	<!-- Protector's Realm -->
+	<portal_loc world_id="300330000" loc_id="3003300" x="216.56151" y="244.50179" z="124.94201"/>
+	<!-- Tiamat Stronghold -->
+	<portal_loc world_id="300510000" loc_id="3005100" x="1581.5779" y="1068.3219" z="492.00986"/>
+	<portal_loc world_id="300510000" loc_id="3005101" x="1062.7202" y="1069.358" z="786.4852"/>
+	<portal_loc world_id="300510000" loc_id="3005102" x="1098.97582" y="1069.7762" z="497.21"/>
+	<portal_loc world_id="300510000" loc_id="3005103" x="1030.83" y="490.4" z="442.2" h="90"/>
+	<portal_loc world_id="300510000" loc_id="3005104" x="1030.7" y="498.4" z="443" h="30"/>
+	<!-- Dragon Lord's Refuge -->
+	<portal_loc world_id="300520000" loc_id="3005200" x="501.95316" y="519.2258" z="240.26651" h="47"/>
+	<portal_loc world_id="300520000" loc_id="3005201" x="217.144" y="195.616" z="246.0712"/>
+	<portal_loc world_id="300520000" loc_id="3005202" x="785.866" y="197.713" z="246.0712"/>
+	<portal_loc world_id="300520000" loc_id="3005203" x="217.947" y="832.552" z="246.0712"/>
+	<portal_loc world_id="300520000" loc_id="3005204" x="779.178" y="833.055" z="246.0712"/>
+	<portal_loc world_id="300520000" loc_id="3005205" x="461.493" y="459.308" z="417.405"/>
+	<portal_loc world_id="300520000" loc_id="3005206" x="546" y="458.934" z="417.405"/>
+	<portal_loc world_id="300520000" loc_id="3005207" x="462.188" y="568.913" z="417.405"/>
+	<portal_loc world_id="300520000" loc_id="3005208" x="545.773" y="569.225" z="417.405"/>
+	<portal_loc world_id="300520000" loc_id="3005209" x="543.346" y="514.509" z="417.405"/>
+	<!-- The Hexway -->
+	<portal_loc world_id="300700000" loc_id="3007000" x="672.79526" y="606.17664" z="321.20"/>
+	<!-- Katalam 4.3 -->
+	<portal_loc world_id="600050000" loc_id="6000500" x="2420.8816" y="2282.8577" z="163.25" h="116"/> <!-- Exit A -->
+	<portal_loc world_id="600050000" loc_id="6000501" x="2503.7026" y="720.7516" z="195.5" h="107"/> <!-- Exit B -->
+	<portal_loc world_id="600050000" loc_id="6000502" x="399.4646" y="2718.6487" z="142.14284" h="55"/> <!-- Elyos Base Camp -->
+	<portal_loc world_id="600050000" loc_id="6000503" x="363.57025" y="385.2177" z="281.80835" h="116"/> <!-- Asmodians Base Camp -->
+	<portal_loc world_id="600050000" loc_id="6000504" x="434.89948" y="438.8168" z="290.27213" h="11"/> <!-- (a faire plus tard) Dwelling Of The Empyrean Lord Asmodians Entrance -->
+	<portal_loc world_id="600050000" loc_id="6000505" x="430.7657" y="435.8048" z="290.26715"/> <!-- (a faire plus tard) Dwelling Of The Empyrean Lord Asmodians Exit -->
+	<portal_loc world_id="600050000" loc_id="6000506" x="310.18848" y="2761.1597" z="150.8646"/> <!-- Dwelling Of The Empyrean Lord Elyos Entrance -->
+	<portal_loc world_id="600050000" loc_id="6000507" x="314.41873" y="2758.8704" z="150.86014"/> <!-- Dwelling Of The Empyrean Lord Elyos Exit -->
+	<portal_loc world_id="600050000" loc_id="6000508" x="1921.6469" y="1714.9702" z="294.4475"/> <!-- (a faire plus tard) Silus Fortress To Cave 1 -->
+	<portal_loc world_id="600050000" loc_id="6000509" x="2354.5332" y="1842.5612" z="324.2686"/> <!-- (a faire plus tard) Silus Fortress To Cave 2 -->
+	<portal_loc world_id="600050000" loc_id="6000510" x="2275.8447" y="1788.4413" z="310.02133"/> <!-- (a faire plus tard) Silus Fortress To Cave 3 -->
+	<portal_loc world_id="600050000" loc_id="6000511" x="378.5648" y="383.5258" z="282.2296" h="41"/>
+	<portal_loc world_id="600050000" loc_id="6000512" x="381.25195" y="2728.4653" z="143.03445" h="52"/>
+	<portal_loc world_id="600050000" loc_id="6000513" x="1825.5458" y="1471.836" z="266.68298" h="2"/>
+	<portal_loc world_id="600050000" loc_id="6000514" x="1935.9327" y="1622.625" z="266.625" h="24"/>
+	<portal_loc world_id="600050000" loc_id="6000515" x="1976.2083" y="1677.9427" z="289.91406" h="11"/>
+	<portal_loc world_id="600050000" loc_id="6000516" x="2022.1682" y="1740.6422" z="308.0868" h="32"/>
+	<portal_loc world_id="600050000" loc_id="6000517" x="2156.194" y="1861.5542" z="306.37006" h="68"/>
+	<portal_loc world_id="600050000" loc_id="6000518" x="2301.0942" y="1888.6595" z="297.6934" h="0"/>
+	<!-- Exit B -->
+	<portal_loc world_id="600050000" loc_id="6005004" x="399.4646" y="2718.6487" z="142.14284" h="55"/>
+	<!-- Danaria 4.3 -->
+	<portal_loc world_id="600060000" loc_id="6000600" x="1890.4014" y="1829.9917" z="148.75" h="41"/>
+	<portal_loc world_id="600060000" loc_id="6000601" x="500.3247" y="1810.3014" z="388.29594" h="43"/>
+	<portal_loc world_id="600060000" loc_id="6000602" x="2517.223" y="1729.2374" z="137.17685" h="9"/>
+	<portal_loc world_id="600060000" loc_id="6000603" x="2545.4749" y="1700.9052" z="141.10408" h="55"/>
+	<portal_loc world_id="600060000" loc_id="6006006" x="2580.5293" y="1661.5387" z="113.27828"/>
+	<portal_loc world_id="600060000" loc_id="6006007" x="2286.0999" y="1587.6216" z="116.36185"/>
+	<!-- Exit A -->
+	<portal_loc world_id="600060000" loc_id="6006005" x="2335.0" y="1556.0" z="109.150154"/>	
+	<!-- Idian Depths 4.3 -->
+	<portal_loc world_id="600070000" loc_id="6000700" x="728.5588" y="890.47754" z="514.7932" h="6"/> <!-- Asmodians Base Camp -->
+	<portal_loc world_id="600070000" loc_id="6000701" x="670.1918" y="644.75397" z="514.8737" h="41"/> <!-- Elyos Base Camp -->
+	<portal_loc world_id="600070000" loc_id="6000702" x="889.0092" y="1124.374" z="547.0" h="29"/> <!-- Exit A -->
+	<portal_loc world_id="600070000" loc_id="6000703" x="485.2039" y="298.32468" z="569.93085" h="95"/> <!-- Exit B -->
+	<portal_loc world_id="600070000" loc_id="6000704" x="403.63693" y="1056.1416" z="556.4098" h="60"/> <!-- Exit C -->
+	<portal_loc world_id="600070000" loc_id="6000705" x="975.61847" y="497.2588" z="560.5769" h="60"/> <!-- Exit D -->	
+	<portal_loc world_id="600070000" loc_id="6007006" x="666.0" y="644.0" z="515.3243"/>	
+
+	<!-- Live Party Concert Hall 4.3 -->
+	<portal_loc world_id="600080000" loc_id="6000800" x="1507.4276" y="1484.457" z="565.8799" h="16"/>
+	<portal_loc world_id="600080000" loc_id="6000801" x="1506.5996" y="1538.497" z="565.87994" h="106"/>	
+	<!-- Steel Rose Cargo (Solo) 4.3 -->
+	<portal_loc world_id="301010000" loc_id="3010100" x="283.64517" y="452.97903" z="902.6228" h="30"/>
+	<!-- Steel Rose Quarters (Solo) 4.3 -->
+	<portal_loc world_id="301020000" loc_id="3010200" x="236.6386" y="506.27164" z="948.67346" h="2"/>	
+	<!-- Steel Rose Cargo (Group) 4.3 -->
+	<portal_loc world_id="301030000" loc_id="3010300" x="283.64517" y="452.97903" z="902.6228" h="30"/>
+	<!-- Steel Rose Quarters (Group) 4.3 -->
+	<portal_loc world_id="301040000" loc_id="3010400" x="236.6386" y="506.27164" z="948.67346" h="2"/>	
+	<!-- Steel Rose Deck (Group) 4.3 -->
+	<portal_loc world_id="301050000" loc_id="3010500" x="713.3696" y="462.9592" z="1015.1851" h="68"/> 
+	<portal_loc world_id="301050000" loc_id="3010501" x="729" y="509" z="1013" h="0"/> 
+	<portal_loc world_id="301050000" loc_id="3010502" x="719" y="509" z="1013" h="0"/>
+	<portal_loc world_id="301050000" loc_id="3010503" x="384.5766" y="529.6599" z="1072.1212" h="89"/>  
+	<!-- Danuar Reliquary 4.3 -->
+	<portal_loc world_id="301110000" loc_id="3011100" x="253.75815" y="242.99854" z="241.93398" h="27"/>  
+	<!-- Lucky_Danuar_Reliquary Entrance -->
+	<portal_loc world_id="301330000" loc_id="3013300" x="253.75815" y="242.99854" z="241.93398" h="27"/> 
+	<!-- Danuar Mysticarium 4.3 -->
+	<portal_loc world_id="300480000" loc_id="3004800" x="179.34444" y="122.14083" z="231.28636" h="59"/>
+	<portal_loc world_id="300480000" loc_id="3004801" x="233.04684" y="481.05615" z="150.05128" h="30"/>
+	<portal_loc world_id="300480000" loc_id="3004802" x="173.60886" y="206.78186" z="188.01486" h="108"/>
+	<portal_loc world_id="300480000" loc_id="3004803" x="552.8659" y="436.68143" z="94.807495" h="55"/>
+	<!-- Idgel Research Center 4.3 -->
+	<portal_loc world_id="300530000" loc_id="3005300" x="559.0539" y="512.04565" z="102.67904" h="90"/>    
+	<!-- The Eternal Bastion 4.3 -->
+	<portal_loc world_id="300540000" loc_id="3005400" x="743.8933" y="293.61774" z="233.71494" h="43"/>	
+	<!-- Shugo Imperial Tomb -->
+	<portal_loc world_id="300560000" loc_id="3005600" x="157.48314" y="206.21262" z="538.3314" h="17"/>   
+	<portal_loc world_id="300560000" loc_id="3005601" x="325.19702" y="429.43137" z="294.58875" h="30"/>  
+	<!-- Void Cube 4.3 -->
+	<portal_loc world_id="300580000" loc_id="3005800" x="183.77718" y="261.03903" z="310.0941" h="0"/> 
+	<!-- Ophidan Bridge 4.3 -->
+	<portal_loc world_id="300590000" loc_id="3005900" x="759.60364" y="560.3337" z="573.0" h="82"/>	
+	<portal_loc world_id="300590000" loc_id="3005901" x="366.62555" y="491.80466" z="605.8126" h="61"/> <!-- Vera Control Center -->
+	<!-- Lucky_Ophidan_Bridge Entrance -->
+	<portal_loc world_id="301320000" loc_id="3013200" x="759.60364" y="560.3337" z="573.0" h="82"/>	
+	<!-- Infinity Shard 4.3 -->
+	<portal_loc world_id="300800000" loc_id="3008000" x="109.21" y="125.45" z="123.85" h="114"/> 	
+	<!-- Sauro Supply Base 4.3 -->
+	<portal_loc world_id="301130000" loc_id="3011300" x="641.5419" y="176.81075" z="195.65363" h="28"/> <!-- Sauro Supply Base Start --> 
+	<portal_loc world_id="301130000" loc_id="3011301" x="122.88202" y="903.0952" z="411.45676" h="75"/> <!-- Boss N°1 --> 
+	<portal_loc world_id="301130000" loc_id="3011302" x="293.80936" y="876.24915" z="411.45676" h="14"/> <!-- Boss N°2 --> 
+	<portal_loc world_id="301130000" loc_id="3011303" x="484.93353" y="889.86426" z="411.45676" h="0"/> <!-- Boss N°3 --> 
+	<portal_loc world_id="301130000" loc_id="3011304" x="689.85376" y="903.41785" z="411.45676" h="105"/> <!-- Boss N°4 --> 
+	<portal_loc world_id="301130000" loc_id="3011305" x="886.4798" y="876.16693" z="411.45676" h="15"/> <!-- Boss N°5 -->
+	<!-- Danuar Sanctuary 4.3 -->
+	<portal_loc world_id="301140000" loc_id="3011400" x="388.0756" y="1185.9813" z="55.30134" h="0"/>  
+	<portal_loc world_id="301140000" loc_id="3011401" x="717.12726" y="980.53925" z="318.71698" h="2"/> 
+	<portal_loc world_id="301140000" loc_id="3011402" x="1023.0114" y="275.5365" z="308.79675" h="19"/> 
+	<portal_loc world_id="301140000" loc_id="3011403" x="1005.93787" y="1366.8308" z="337.25" h="113"/> 
+	<!-- Rukibuki Circus Troop Training Camp 4.3 -->
+	<portal_loc world_id="301160000" loc_id="3011600" x="464.59558" y="566.6469" z="201.64261" h="2"/>	
+	<!-- Idgel Research Center 4.3 (Legion) -->
+	<portal_loc world_id="301170000" loc_id="3011700" x="559.0539" y="512.04565" z="102.67904" h="90"/>
+	<!-- Cube Void 4.3 (Legion) -->
+	<portal_loc world_id="301180000" loc_id="3011800" x="183.77718" y="261.03903" z="310.0941" h="0"/>
+	<!-- Danuar Mysticarium 4.3 (Legion) -->
+	<portal_loc world_id="301190000" loc_id="3011900" x="179.34444" y="122.14083" z="231.28636" h="59"/>
+	<!-- Defender tower of rune 4.5 -->
+	<portal_loc world_id="301230000" loc_id="3012300" x="322.77" y="324.49" z="405.49" h="75"/>
+	<portal_loc world_id="301230000" loc_id="3012301" x="244.96" y="244.23" z="455.17" h="13"/>
+	<portal_loc world_id="600070000" loc_id="3012302" x="711.33" y="1369.49" z="494.70" h="90"/>
+	<!-- Kysis Chamber 4.5 -->
+	<portal_loc world_id="301240000" loc_id="3012400" x="527.33484" y="122.05632" z="175.95427" h="0"/>
+	<!-- Miren Chamber 4.5 -->
+	<portal_loc world_id="301250000" loc_id="3012500" x="527.5752" y="119.29071" z="175.89603" h="0"/>
+	<!-- Krotan Chamber 4.5 -->
+	<portal_loc world_id="301260000" loc_id="3012600" x="527.79846" y="109.320755" z="175.92393" h="0"/>
+	<!-- Kysis Chamber N 4.5 -->
+	<portal_loc world_id="301280000" loc_id="3012800" x="527.33484" y="122.05632" z="175.95427" h="0"/>
+	<!-- Miren Chamber N 4.5 -->
+	<portal_loc world_id="301290000" loc_id="3012900" x="527.5752" y="119.29071" z="175.89603" h="0"/>
+	<!-- Krotan Chamber N 4.5 -->
+	<portal_loc world_id="301300000" loc_id="3013000" x="527.79846" y="109.320755" z="175.92393" h="0"/>	
+	<portal_loc world_id="110010000" loc_id="1100114" x="1531.5415" y="1511.4716" z="565.8845" h="119"/>
+	<portal_loc world_id="120010000" loc_id="6000802" x="1275.2928" y="1333.435" z="204.42003" h="28"/>
+	<!-- Dragon 4.7 -->
+	<portal_loc world_id="600050000" loc_id="6000500" x="1358.5381" y="353.3946" z="184.95579" h="90"/>
+	<portal_loc world_id="600050000" loc_id="6000501" x="1348.5225" y="2973.4478" z="214.125" h="127"/>
+	<!-- 4.71 Kaldor Teleporter-->
+	<portal_loc world_id="600090000" loc_id="6000900" x="423.5164" y="1381.13906" z="163.81831" h="113"/> <!-- Asmodian -->
+	<portal_loc world_id="600090000" loc_id="6000901" x="1266.3823" y="1363.3823" z="196.08409" h="29"/>
+	<portal_loc world_id="600090000" loc_id="6000902" x="1320.0" y="1221.0" z="188.625" h="0"/>
+	<portal_loc world_id="600090000" loc_id="6000903" x="487.0" y="1212.0" z="136.37088" h="0"/>
+	<!-- 4.71 Siege 7011 Teleporter-->
+	<portal_loc world_id="600090000" loc_id="6000904" x="751.12317" y="260.76105" z="155.6706" h="61"/>
+	<portal_loc world_id="600090000" loc_id="6000905" x="751.12317" y="260.76105" z="155.6706" h="61"/>
+	<portal_loc world_id="600090000" loc_id="6000906" x="741.14655" y="251.70581" z="155.70581" h="4"/>
+	<portal_loc world_id="600090000" loc_id="6000907" x="741.14655" y="251.70581" z="155.70581" h="4"/>
+	<portal_loc world_id="600090000" loc_id="6000908" x="751.16504" y="303.6612" z="155.6706" h="61"/>
+	<portal_loc world_id="600090000" loc_id="6000909" x="751.16504" y="303.6612" z="155.6706" h="61"/>
+	<portal_loc world_id="600090000" loc_id="6000910" x="742.21844" y="312.89902" z="155.70581" h="6"/>
+	<portal_loc world_id="600090000" loc_id="6000911" x="742.21844" y="312.89902" z="155.70581" h="6"/>
+	<portal_loc world_id="600090000" loc_id="6000912" x="791.5139" y="324.12094" z="156.48004" h="30"/>
+	<portal_loc world_id="600090000" loc_id="6000913" x="791.5139" y="324.12094" z="156.48004" h="30"/>
+	<portal_loc world_id="600090000" loc_id="6000914" x="783.3547" y="334.61606" z="156.36096" h="89"/>
+	<portal_loc world_id="600090000" loc_id="6000915" x="783.3547" y="334.61606" z="156.36096" h="89"/>
+	<portal_loc world_id="600090000" loc_id="6000916" x="821.51263" y="303.96484" z="155.70581" h="61"/>
+	<portal_loc world_id="600090000" loc_id="6000917" x="821.51263" y="303.96484" z="155.70581" h="61"/>
+	<portal_loc world_id="600090000" loc_id="6000918" x="831.93616" y="313.1094" z="155.70581" h="61"/>
+	<portal_loc world_id="600090000" loc_id="6000919" x="831.93616" y="313.1094" z="155.70581" h="61"/>
+	<portal_loc world_id="600090000" loc_id="6000920" x="821.8496" y="260.42343" z="155.6706" h="2"/>
+	<portal_loc world_id="600090000" loc_id="6000921" x="821.8496" y="260.42343" z="155.6706" h="2"/>
+	<portal_loc world_id="600090000" loc_id="6000922" x="831.7462" y="251.58252" z="155.70581" h="62"/>
+	<portal_loc world_id="600090000" loc_id="6000923" x="831.7462" y="251.58252" z="155.70581" h="62"/>
+	<portal_loc world_id="600090000" loc_id="6000924" x="563.245" y="668.3315" z="152.51497" h="97"/>
+	<portal_loc world_id="600090000" loc_id="6000925" x="561.6273" y="678.724" z="153.39696" h="97"/>
+	<portal_loc world_id="600090000" loc_id="6000926" x="1071.1566" y="704.1889" z="185.25" h="97"/>
+	<portal_loc world_id="600090000" loc_id="6000927" x="1072.7261" y="711.3261" z="185.25" h="97"/>
+	<portal_loc world_id="600090000" loc_id="6000928" x="559.4695" y="650.2206" z="150.63321" h="30"/> <!-- Teleport C1 -->
+	<portal_loc world_id="600090000" loc_id="6000929" x="1074.8864" y="686.0822" z="185.44461" h="28"/> <!-- Teleport C2 -->
+	<!-- 4.71 Levinshor Teleporter -->
+	<portal_loc world_id="600100000" loc_id="6001000" x="113.57012" y="129.88087" z="347.93137" h="24"/>
+	<portal_loc world_id="600100000" loc_id="6001001" x="1846.6798" y="1772.085" z="305.1728" h="88"/>
+	<portal_loc world_id="600100000" loc_id="6001003" x="358.32965" y="151.99414" z="352.5206" h="50"/> <!-- Aetherbrak -->
+	<portal_loc world_id="600100000" loc_id="6001004" x="1575.7242" y="1728.872" z="284.375" h="6"/> <!-- Stonepike Falls -->
+	<!-- SensoryArea 4.71 -->
+	<portal_loc world_id="301270000" loc_id="3012700" x="362.7958" y="259.75745" z="311.36533" h="60"/>
+	<portal_loc world_id="301270000" loc_id="3012701" x="226.24567" y="259.68912" z="312.59738" h="3"/>
+	<portal_loc world_id="600100000" loc_id="3012702" x="332.45618" y="406.18948" z="318.58466" h="25"/>
+	<portal_loc world_id="600100000" loc_id="3012703" x="1763.1941" y="1610.4384" z="289.625" h="84"/>
+	<portal_loc world_id="400010000" loc_id="4000112" x="2116.0" y="2042.0" z="2931.029" h="0"/>
+	<portal_loc world_id="400010000" loc_id="4000113" x="2246.0" y="1870.0" z="2919.1355" h="0"/>
+	<portal_loc world_id="210050000" loc_id="2100515" x="1330.8383" y="2215.9136" z="352.7754" h="86"/>
+	<portal_loc world_id="220070000" loc_id="2200715" x="1559.0582" y="1083.9164" z="333.82443" h="24"/>
+	<!-- Warriors Defender tower of rune 4.7 -->
+	<portal_loc world_id="301360000" loc_id="3013600" x="253.75815" y="242.99854" z="241.93398" h="27"/>   
+	<!-- Warriors Defender tower of rune 4.7 -->
+	<portal_loc world_id="301370000" loc_id="3013700" x="320.24768" y="322.18896" z="405.4994" h="0"/>
+	<!-- ELYOS Clobby 4.75 Teleporter -->
+	<portal_loc world_id="130090000" loc_id="1300900" x="247.07394" y="224.1747" z="129.3827" h="30"/>
+	<!-- ELYOS Clobby 4.75 Teleporter -->
+	<portal_loc world_id="210040000" loc_id="1300901" x="2530.9" y="2684.2" z="155.36249" h="0"/>
+	<portal_loc world_id="210060000" loc_id="1300902" x="2677.5" y="820.4" z="138.35718" h="0"/>
+	<portal_loc world_id="210060000" loc_id="1300903" x="2682.1" y="850.6" z="138.35718" h="0"/>
+	<portal_loc world_id="210040000" loc_id="1300904" x="2024.2" y="1470.5" z="126.9875" h="0"/>
+	<!-- ELYOS Clobby 4.75 Teleporter -->
+	<portal_loc world_id="210050000" loc_id="1300905" x="2888.6" y="359.6" z="298.70145" h="0"/>
+	<portal_loc world_id="210050000" loc_id="1300906" x="333.5" y="1354.0" z="263.98422" h="0"/>
+	<portal_loc world_id="210050000" loc_id="1300907" x="205.0" y="1386.5" z="266.42322" h="0"/>
+	<portal_loc world_id="600010000" loc_id="1300908" x="1408.7" y="767.6" z="312.7773" h="0"/>
+	<!-- ELYOS Clobby 4.75 Teleporter -->
+	<portal_loc world_id="600020000" loc_id="1300909" x="537.4" y="1049.8" z="657.1337" h="0"/>
+	<portal_loc world_id="600030000" loc_id="1300910" x="134.8" y="2762.9" z="292.98126" h="0"/>
+	<portal_loc world_id="600040000" loc_id="1300911" x="773.6" y="74.8" z="1196.8096" h="0"/>
+	<portal_loc world_id="600040000" loc_id="1300912" x="754.9" y="650.2" z="1223.3047" h="0"/>
+	<!-- ELYOS Clobby 4.75 Teleporter -->
+	<portal_loc world_id="600100000" loc_id="1300913" x="353.6" y="156.9" z="352.5" h="0"/>
+	<portal_loc world_id="600100000" loc_id="1300914" x="460.0" y="1544.8" z="241.50108" h="0"/>
+	<portal_loc world_id="600100000" loc_id="1300915" x="330.8" y="402.4" z="318.625" h="0"/>
+	<portal_loc world_id="600100000" loc_id="1300916" x="352.92664" y="154.45374" z="352.5" h="112"/>
+	<portal_loc world_id="600100000" loc_id="1300917" x="1398.5336" y="385.56204" z="250.32077" h="27"/>
+	<!-- ELYOS Clobby 4.75 Teleporter -->
+	<portal_loc world_id="110010000" loc_id="1300918" x="1366.0" y="1484.0" z="569.03845" h="0"/>
+	<!-- ASMODIANS Clobby 4.75 Teleporter -->
+	<portal_loc world_id="140010000" loc_id="1400100" x="283.01074" y="266.0985" z="96.48729" h="60"/>
+	<!-- ASMODIANS Clobby 4.75 Teleporter -->
+	<portal_loc world_id="220040000" loc_id="1400101" x="1604.1" y="2721.7" z="705.10626" h="0"/>
+	<portal_loc world_id="220050000" loc_id="1400102" x="1539.6" y="388.4" z="231.15001" h="0"/>
+	<portal_loc world_id="220050000" loc_id="1400103" x="1533.5" y="377.3" z="231.10469" h="0"/>
+	<portal_loc world_id="220040000" loc_id="1400104" x="2423.9" y="2062.3" z="579.6072" h="0"/>
+	<!-- ASMODIANS Clobby 4.75 Teleporter -->
+	<portal_loc world_id="220070000" loc_id="1400105" x="984.9" y="2564.7" z="241.1" h="0"/>
+	<portal_loc world_id="220070000" loc_id="1400106" x="2257.0" y="1731.1" z="309.5241" h="0"/>
+	<portal_loc world_id="220070000" loc_id="1400107" x="2274.0" y="1603.0" z="310.44833" h="0"/>
+	<portal_loc world_id="600010000" loc_id="1400108" x="1408.7" y="767.6" z="312.7773" h="0"/>
+	<!-- ASMODIANS Clobby 4.75 Teleporter -->
+	<portal_loc world_id="600020000" loc_id="1400109" x="537.4" y="1049.8" z="657.1337" h="0"/>
+	<portal_loc world_id="600030000" loc_id="1400110" x="132.9" y="2763.7" z="293.04785" h="0"/>
+	<portal_loc world_id="600040000" loc_id="1400111" x="769.5" y="1456.0" z="1196.8643" h="0"/>
+	<portal_loc world_id="600040000" loc_id="1400112" x="754.1" y="882.9" z="1223.3048" h="0"/>
+	<!-- ASMODIANS Clobby 4.75 Teleporter -->
+	<portal_loc world_id="600100000" loc_id="1400113" x="1581.8" y="1731.2" z="284.375" h="0"/>
+	<portal_loc world_id="600100000" loc_id="1400114" x="1397.8" y="376.4" z="248.3759" h="0"/>
+	<portal_loc world_id="600100000" loc_id="1400115" x="1766.6" y="1608.8" z="289.625" h="0"/>
+	<portal_loc world_id="600100000" loc_id="1400116" x="1577.9644" y="1727.7332" z="284.375" h="62"/>
+	<portal_loc world_id="600100000" loc_id="1400117" x="463.85236" y="1537.7402" z="243.20941" h="103"/>
+	<!-- ASMODIANS Clobby 4.75 Teleporter -->
+	<portal_loc world_id="120010000" loc_id="1400118" x="1603.0" y="1417.0" z="193.12837" h="0"/>
+	<!-- Shugo Emperors Vault 4.75 Teleporter -->
+	<portal_loc world_id="301400000" loc_id="3014000" x="543.3592" y="292.99374" z="400.5801" h="24"/>
+	<portal_loc world_id="301400000" loc_id="3014001" x="429.79846" y="696.052" z="398.42203" h="46"/>
+	<portal_loc world_id="301400000" loc_id="3014002" x="167.5375" y="543.5233" z="395.0" h="100"/>
+	<portal_loc world_id="110010000" loc_id="3014003" x="1453.8359" y="1504.7222" z="573.0719" h="117"/>
+	<portal_loc world_id="120010000" loc_id="3014004" x="1612.0155" y="1421.9525" z="193.12764" h="47"/>
+	<!-- 4.81 Teleporter -->
+	<portal_loc world_id="210070000" loc_id="2100700" x="2943.4592" y="851.8481" z="571.6481" h="69"/>
+	<portal_loc world_id="210070000" loc_id="2100701" x="2693.6707" y="1444.6268" z="434.86563" h="45"/><!-- Raksang Ruins 4.8 Exit -->
+	<portal_loc world_id="210070000" loc_id="2100702" x="81.66987" y="2757.882" z="227.98903" h="112"/> <!-- Drakenspire Depths 4.8 Exit -->
+	<portal_loc world_id="210070000" loc_id="2100703" x="1143.1522" y="797.8267" z="562.75" h="73"/> <!-- Rentus Base 4.8 Exit -->
+	<portal_loc world_id="210070000" loc_id="2100704" x="100.22615" y="1466.7427" z="491.8714" h="101"/> <!-- Tiamat Stronghold/A.D.L.R 4.8 Exit -->
+	<portal_loc world_id="210070000" loc_id="2100705" x="2782.2812" y="3003.5215" z="274.875" h="80"/> <!-- Ophidan Bridge 4.8 Exit -->
+	<portal_loc world_id="210070000" loc_id="2100706" x="2098.4587" y="2283.0388" z="294.625" h="21"/> <!-- Danuar Sanctuary 4.8 Exit -->
+	<portal_loc world_id="210070000" loc_id="2100707" x="2418.4604" y="630.34576" z="548.80962" h="8"/> <!-- Aturam Sky Fortress 4.8 Exit -->
+	<portal_loc world_id="210070000" loc_id="2100708" x="2918.3035" y="827.34796" z="569.25" h="73"/> <!-- LF5_OP1 -->
+	<portal_loc world_id="210070000" loc_id="2100709" x="1326.1046" y="640.8399" z="584.82385" h="26"/> <!-- LF5_Vil1_1_In -->
+	<portal_loc world_id="210070000" loc_id="2100710" x="1335.0393" y="632.9528" z="581.5596" h="90"/> <!-- LF5_Vil1_1_Out -->
+	<portal_loc world_id="210070000" loc_id="2100711" x="1378.3633" y="655.79205" z="584.82385" h="54"/> <!-- LF5_Vil1_2_In -->
+	<portal_loc world_id="210070000" loc_id="2100712" x="1372.4951" y="642.6371" z="581.5089" h="111"/> <!-- LF5_Vil1_2_Out -->
+	<portal_loc world_id="210070000" loc_id="2100713" x="1228.2413" y="1628.6283" z="470.35565" h="100"/> <!-- LF5_Vil2_1_In -->
+	<portal_loc world_id="210070000" loc_id="2100714" x="1215.5084" y="1624.7498" z="467.21896" h="67"/> <!-- LF5_Vil2_1_Out -->
+	<portal_loc world_id="210070000" loc_id="2100715" x="1218.8335" y="1576.2424" z="470.35565" h="14"/> <!-- LF5_Vil2_2_In -->
+	<portal_loc world_id="210070000" loc_id="2100716" x="1208.4254" y="1586.8859" z="467.15158" h="56"/> <!-- LF5_Vil2_2_Out -->
+	<portal_loc world_id="210070000" loc_id="2100717" x="2327.8035" y="1535.8595" z="440.83572" h="17"/> <!-- LF5_Vil3_1_In -->
+	<portal_loc world_id="210070000" loc_id="2100718" x="2339.5598" y="1524.8116" z="437.98074" h="102"/> <!-- LF5_Vil3_1_Out -->
+	<portal_loc world_id="210070000" loc_id="2100719" x="2381.8564" y="1549.5217" z="440.83572" h="51"/> <!-- LF5_Vil3_2_In -->
+	<portal_loc world_id="210070000" loc_id="2100720" x="2375.768" y="1536.5509" z="437.75" h="94"/> <!-- LF5_Vil3_2_Out -->
+	<portal_loc world_id="220080000" loc_id="2200800" x="429.60275" y="2235.695" z="219.94165" h="16"/>
+	<portal_loc world_id="220080000" loc_id="2200801" x="410.19443" y="1443.7147" z="274.5" h="39"/><!-- Raksang Ruins 4.8 Exit -->
+	<portal_loc world_id="220080000" loc_id="2200802" x="2984.8833" y="375.98993" z="307.3698" h="43"/> <!-- Drakenspire Depths 4.8 Exit -->
+	<portal_loc world_id="220080000" loc_id="2200803" x="1977.697" y="2019.9493" z="328.66605" h="10"/> <!-- Rentus Base 4.8 Exit -->
+	<portal_loc world_id="220080000" loc_id="2200804" x="2836.962" y="1673.9382" z="301.06396" h="66"/> <!-- Tiamat Stronghold/A.D.L.R 4.8 Exit -->
+	<portal_loc world_id="220080000" loc_id="2200805" x="491.57666" y="92.30605" z="199.21175" h="28"/> <!-- Ophidan Bridge 4.8 Exit -->
+	<portal_loc world_id="220080000" loc_id="2200806" x="1673.2377" y="560.71545" z="257.77853" h="119"/> <!-- Danuar Sanctuary 4.8 Exit -->
+	<portal_loc world_id="220080000" loc_id="2200807" x="702.56445" y="2852.6885" z="215.72034" h="48"/> <!-- Aturam Sky Fortress 4.8 Exit -->
+	<portal_loc world_id="220080000" loc_id="2200808" x="449.13324" y="2240.4626" z="220.04858" h="26"/> <!-- DF5_OP1 -->
+	<portal_loc world_id="220080000" loc_id="2200809" x="1769.7422" y="2596.248" z="301.87747" h="12"/> <!-- DF5_Vil1_1_In -->
+	<portal_loc world_id="220080000" loc_id="2200810" x="1767.1886" y="2583.526" z="298.56824" h="25"/> <!-- DF5_Vil1_1_Out -->
+	<portal_loc world_id="220080000" loc_id="2200811" x="1810.1752" y="2559.1487" z="301.87747" h="25"/> <!-- DF5_Vil1_2_In -->
+	<portal_loc world_id="220080000" loc_id="2200812" x="1798.7651" y="2553.758" z="298.6577" h="72"/> <!-- DF5_Vil1_2_Out -->
+	<portal_loc world_id="220080000" loc_id="2200813" x="1435.401" y="1742.898" z="332.56546" h="38"/> <!-- DF5_Vil2_1_In -->
+	<portal_loc world_id="220080000" loc_id="2200814" x="1448.1521" y="1740.116" z="328.875" h="119"/> <!-- DF5_Vil2_1_Out -->
+	<portal_loc world_id="220080000" loc_id="2200815" x="1466.7686" y="1787.5085" z="332.56546" h="55"/> <!-- DF5_Vil2_2_In -->
+	<portal_loc world_id="220080000" loc_id="2200816" x="1472.9526" y="1775.125" z="328.81546" h="99"/> <!-- DF5_Vil2_2_Out -->
+	<portal_loc world_id="220080000" loc_id="2200817" x="768.7018" y="1316.1646" z="254.92737" h="1"/> <!-- DF5_Vil3_1_In -->
+	<portal_loc world_id="220080000" loc_id="2200818" x="761.52905" y="1302.8881" z="251.5" h="86"/> <!-- DF5_Vil3_1_Out -->
+	<portal_loc world_id="220080000" loc_id="2200819" x="803.8293" y="1274.7317" z="254.92737" h="18"/> <!-- DF5_Vil3_2_In -->
+	<portal_loc world_id="220080000" loc_id="2200820" x="790.6567" y="1269.8317" z="251.5" h="62"/> <!-- DF5_Vil3_2_Out -->
+	<!-- Legion's Linkgate Foundry 4.7 -->
+	<portal_loc world_id="301350000" loc_id="3013500" x="359.55505" y="259.99792" z="311.36365" h="60"/>
+	<portal_loc world_id="301350000" loc_id="3013502" x="227.4986" y="259.43616" z="312.53738" h="0"/> <!-- Boss Room -->
+	<portal_loc world_id="301350000" loc_id="3013503" x="212.77286" y="259.47467" z="313.61807" h="1"/> <!-- Waiting Room -->
+	<!-- 4.81 Entrance -->
+ 	<!-- Raksang Ruins 4.8 -->
+	<portal_loc world_id="300610000" loc_id="3006100" x="829.7167" y="942.56274" z="1207.4312" h="75"/>
+	<portal_loc world_id="300610000" loc_id="3006101" x="621.9138" y="669.5035" z="522.0487" h="26"/>
+	<portal_loc world_id="300610000" loc_id="3006102" x="711.575" y="313.59735" z="910.6781" h="116"/>
+	<portal_loc world_id="300610000" loc_id="3006103" x="814.80493" y="941.99634" z="792.0316" h="42"/>
+	<!-- Occupied Rentus Base 4.8 -->
+	<portal_loc world_id="300620000" loc_id="3006200" x="553.34625" y="589.66284" z="154.29102" h="73"/>
+	<!-- Anguished Dragon Lord's Refuge 4.8 -->
+	<portal_loc world_id="300630000" loc_id="3006300" x="503.44748" y="524.0377" z="240.26653" h="0"/>
+	<portal_loc world_id="300280000" loc_id="3002800" x="557.61523" y="593.1484" z="154.125" h="53"/>
+	<!-- Danuar Sanctuary 4.8 -->
+	<portal_loc world_id="301380000" loc_id="3013800" x="388.8532" y="1183.4175" z="55.30134" h="90"/>
+	<!-- Stonespear Reach 4.8 -->
+	<portal_loc world_id="301390000" loc_id="3013900" x="321.51364" y="183.10413" z="1687.2552" h="0"/>
+	<portal_loc world_id="301390000" loc_id="3013901" x="174.43976" y="527.9976" z="1749.7006" h="67"/> <!-- Boss Room -->
+	<!-- Idian Depths 4.8 -->
+	<portal_loc world_id="210090000" loc_id="2100901" x="305.6344" y="715.3991" z="560.40906" h="91"/> <!-- Claw Fist Garrison -->
+	<!-- Idian Depths 4.8 -->
+	<portal_loc world_id="220100000" loc_id="2201001" x="305.6344" y="715.3991" z="560.40906" h="91"/> <!-- Claw Fist Garrison -->	
+	<!-- I4.9 obs -->
+	<portal_loc world_id="210070000" loc_id="4000114" x="2905.0" y="803.0" z="569.52704" h="0"/> 	
+	<portal_loc world_id="400010000" loc_id="4000115" x="2393.0" y="376.0" z="2938.0315" h="0"/> 	
+	<portal_loc world_id="400010000" loc_id="4000116" x="2405.2537" y="388.64554" z="2938.3572" h="93"/> 
+	<portal_loc world_id="400010000" loc_id="4000117" x="2403.1091" y="404.06967" z="2938.315" h="33"/> 	
+	<portal_loc world_id="400010000" loc_id="4000118" x="1292.8618" y="3120.3855" z="3034.0369" h="35"/> 	
+	<portal_loc world_id="400010000" loc_id="4000119" x="1295.743" y="3109.1506" z="3034.066" h="95"/> 
+	<portal_loc world_id="220080000" loc_id="4000120" x="446.0" y="2260." z="220.04858" h="0"/> 		
+	<portal_loc world_id="400010000" loc_id="4000121" x="1304.0" y="3134.0" z="3033.7405" h="0"/> 		
+	<!-- Belus [Arcadian Fortress] -->
+	<portal_loc world_id="400020000" loc_id="4000200" x="1024.2173" y="1025.3594" z="1530.4855" h="77"/>
+	<portal_loc world_id="400020000" loc_id="4000200" x="1024.2173" y="1025.3594" z="1530.4855" h="77"/>
+	<portal_loc world_id="400020000" loc_id="4000201" x="594.9146" y="595.238" z="1484.5125" h="15"/>
+	<portal_loc world_id="400020000" loc_id="4000202" x="610.2173" y="610.83844" z="1484.553" h="13"/>
+	<portal_loc world_id="400020000" loc_id="4000203" x="600.55273" y="1447.2692" z="1484.8252" h="49"/>
+	<portal_loc world_id="400020000" loc_id="4000204" x="610.6436" y="1438.1437" z="1484.497" h="1"/>
+	<portal_loc world_id="400020000" loc_id="4000205" x="1449.8173" y="1449.9053" z="1484.4587" h="77"/>
+	<portal_loc world_id="400020000" loc_id="4000206" x="1436.6007" y="1437.4558" z="1484.5051" h="79"/>
+	<portal_loc world_id="400020000" loc_id="4000207" x="1448.511" y="598.5872" z="1484.4587" h="107"/>
+	<portal_loc world_id="400020000" loc_id="4000208" x="1437.8329" y="610.891" z="1484.5436" h="43"/>
+	<portal_loc world_id="400020000" loc_id="4000209" x="961.8853" y="1023.0067" z="1530.6317" h="60"/>
+	<portal_loc world_id="400020000" loc_id="4000210" x="1087.8966" y="1024.0032" z="1530.1122" h="0"/>
+	<portal_loc world_id="400020000" loc_id="4000211" x="1024.4343" y="2039.0264" z="1429.4739" h="0"/>
+	<portal_loc world_id="400020000" loc_id="4000212" x="2039.0242" y="1023.8481" z="1429.4832" h="0"/>
+	<portal_loc world_id="400020000" loc_id="4000213" x="824.5404" y="823.3414" z="1517.9669" h="14"/> <!-- Ivy Temple -->
+	<portal_loc world_id="400020000" loc_id="4000214" x="825.65466" y="1221.8978" z="1518.1077" h="45"/> <!-- Highland Temple -->
+	<portal_loc world_id="400020000" loc_id="4000215" x="1223.2548" y="1222.4727" z="1517.9193" h="16"/> <!-- Alpine Temple -->
+	<portal_loc world_id="400020000" loc_id="4000216" x="1223.4489" y="824.2296" z="1517.9948" h="105"/> <!-- Grandweir Temple -->
+	<!-- Transidium Annex -->
+	<portal_loc world_id="400030000" loc_id="4000300" x="281.02103" y="283.73212" z="679.2342" h="15"/> <!-- Belus Camp Entrance -->
+	<portal_loc world_id="400030000" loc_id="4000301" x="279.83246" y="738.8301" z="679.16345" h="105"/> <!-- Aspida Camp Entrance -->
+	<portal_loc world_id="400030000" loc_id="4000302" x="737.00946" y="744.7134" z="679.0205" h="75"/> <!-- Atanatos Camp Entrance -->
+	<portal_loc world_id="400030000" loc_id="4000303" x="738.189" y="286.75668" z="679.237" h="45"/> <!-- Disilon Camp Entrance -->
+	<!-- Aspida [Umbral Fortress] -->
+	<portal_loc world_id="400040000" loc_id="4000400" x="1024.2173" y="1025.3594" z="1530.4855" h="77"/>
+	<portal_loc world_id="400040000" loc_id="4000400" x="1024.2173" y="1025.3594" z="1530.4855" h="77"/>
+	<portal_loc world_id="400040000" loc_id="4000401" x="594.9146" y="595.238" z="1484.5125" h="15"/>
+	<portal_loc world_id="400040000" loc_id="4000402" x="610.2173" y="610.83844" z="1484.553" h="13"/>
+	<portal_loc world_id="400040000" loc_id="4000403" x="600.55273" y="1447.2692" z="1484.8252" h="49"/>
+	<portal_loc world_id="400040000" loc_id="4000404" x="610.6436" y="1438.1437" z="1484.497" h="1"/>
+	<portal_loc world_id="400040000" loc_id="4000405" x="1449.8173" y="1449.9053" z="1484.4587" h="77"/>
+	<portal_loc world_id="400040000" loc_id="4000406" x="1436.6007" y="1437.4558" z="1484.5051" h="79"/>
+	<portal_loc world_id="400040000" loc_id="4000407" x="1448.511" y="598.5872" z="1484.4587" h="107"/>
+	<portal_loc world_id="400040000" loc_id="4000408" x="1437.8329" y="610.891" z="1484.5436" h="43"/>
+	<portal_loc world_id="400040000" loc_id="4000409" x="961.8853" y="1023.0067" z="1530.6317" h="60"/>
+	<portal_loc world_id="400040000" loc_id="4000410" x="1087.8966" y="1024.0032" z="1530.1122" h="0"/>
+	<portal_loc world_id="400040000" loc_id="4000411" x="1024.5756" y="2040.2117" z="1428.4645" h="0"/>
+	<portal_loc world_id="400040000" loc_id="4000412" x="1023.5756" y="8.179796" z="1429.4645" h="0"/>
+	<portal_loc world_id="400040000" loc_id="4000413" x="824.5404" y="823.3414" z="1517.9669" h="14"/> <!-- Temple -->
+	<portal_loc world_id="400040000" loc_id="4000414" x="825.65466" y="1221.8978" z="1518.1077" h="45"/> <!-- Temple -->
+	<portal_loc world_id="400040000" loc_id="4000415" x="1223.2548" y="1222.4727" z="1517.9193" h="16"/> <!-- Temple -->
+	<portal_loc world_id="400040000" loc_id="4000416" x="1223.4489" y="824.2296" z="1517.9948" h="105"/> <!-- Temple -->
+	<portal_loc world_id="400040000" loc_id="4000417" x="572.3929" y="1475.8175" z="1483.2329" h="105"/>
+	<!-- Atanatos [Eternum Fortress] -->
+	<portal_loc world_id="400050000" loc_id="4000500" x="1024.2173" y="1025.3594" z="1530.4855" h="77"/>
+	<portal_loc world_id="400050000" loc_id="4000501" x="594.9146" y="595.238" z="1484.5125" h="15"/>
+	<portal_loc world_id="400050000" loc_id="4000502" x="610.2173" y="610.83844" z="1484.553" h="13"/>
+	<portal_loc world_id="400050000" loc_id="4000503" x="600.55273" y="1447.2692" z="1484.8252" h="49"/>
+	<portal_loc world_id="400050000" loc_id="4000504" x="610.6436" y="1438.1437" z="1484.497" h="1"/>
+	<portal_loc world_id="400050000" loc_id="4000505" x="1449.8173" y="1449.9053" z="1484.4587" h="77"/>
+	<portal_loc world_id="400050000" loc_id="4000506" x="1436.6007" y="1437.4558" z="1484.5051" h="79"/>
+	<portal_loc world_id="400050000" loc_id="4000507" x="1448.511" y="598.5872" z="1484.4587" h="107"/>
+	<portal_loc world_id="400050000" loc_id="4000508" x="1437.8329" y="610.891" z="1484.5436" h="43"/>
+	<portal_loc world_id="400050000" loc_id="4000509" x="961.8853" y="1023.0067" z="1530.6317" h="60"/>
+	<portal_loc world_id="400050000" loc_id="4000510" x="1087.8966" y="1024.0032" z="1530.1122" h="0"/>
+	<portal_loc world_id="400050000" loc_id="4000511" x="2038.9006" y="1024.9577" z="1429.4729" h="0"/>
+	<portal_loc world_id="400050000" loc_id="4000512" x="1024.6917" y="9.7688" z="1429.47" h="0"/>
+	<portal_loc world_id="400050000" loc_id="4000513" x="824.5404" y="823.3414" z="1517.9669" h="14"/> <!-- Temple -->
+	<portal_loc world_id="400050000" loc_id="4000514" x="825.65466" y="1221.8978" z="1518.1077" h="45"/> <!-- Temple -->
+	<portal_loc world_id="400050000" loc_id="4000515" x="1223.2548" y="1222.4727" z="1517.9193" h="16"/> <!-- Temple -->
+	<portal_loc world_id="400050000" loc_id="4000516" x="1223.4489" y="824.2296" z="1517.9948" h="105"/> <!-- Temple -->
+	<portal_loc world_id="400050000" loc_id="4000517" x="572.3929" y="1475.8175" z="1483.2329" h="105"/>
+	<!-- Disillon [Skyclash Fortress] -->
+	<portal_loc world_id="400060000" loc_id="4000600" x="1024.6257" y="1024.7845" z="1530.4855" h="101"/>
+	<portal_loc world_id="400060000" loc_id="4000601" x="599.0132" y="600.90314" z="1484.4587" h="77"/>
+	<portal_loc world_id="400060000" loc_id="4000602" x="610.31885" y="610.2521" z="1484.5508" h="28"/>
+	<portal_loc world_id="400060000" loc_id="4000603" x="600.55273" y="1447.2692" z="1484.8252" h="49"/>
+	<portal_loc world_id="400060000" loc_id="4000604" x="610.6436" y="1438.1437" z="1484.497" h="1"/>
+	<portal_loc world_id="400060000" loc_id="4000605" x="1448.0791" y="1447.4109" z="1484.6375" h="15"/>
+	<portal_loc world_id="400060000" loc_id="4000606" x="1436.1554" y="1437.4578" z="1484.5066" h="78"/>
+	<portal_loc world_id="400060000" loc_id="4000607" x="1447.284" y="599.23364" z="1484.4587" h="102"/>
+	<portal_loc world_id="400060000" loc_id="4000608" x="1438.56" y="612.3346" z="1484.546" h="47"/>
+	<portal_loc world_id="400060000" loc_id="4000609" x="960.43567" y="1024.4186" z="1530.1122" h="60"/>
+	<portal_loc world_id="400060000" loc_id="4000610" x="1088.6334" y="1024.0408" z="1530.1122" h="0"/>
+	<portal_loc world_id="400060000" loc_id="4000611" x="9.923323" y="1024.0143" z="1428.4661" h="0"/>
+	<portal_loc world_id="400060000" loc_id="4000612" x="1024.5437" y="9.9534" z="1429.4954" h="0"/>
+	<portal_loc world_id="400060000" loc_id="4000613" x="824.5404" y="823.3414" z="1517.9669" h="14"/> <!-- Temple -->
+	<portal_loc world_id="400060000" loc_id="4000614" x="825.65466" y="1221.8978" z="1518.1077" h="45"/> <!-- Temple -->
+	<portal_loc world_id="400060000" loc_id="4000615" x="1223.2548" y="1222.4727" z="1517.9193" h="16"/> <!-- Temple -->
+	<portal_loc world_id="400060000" loc_id="4000616" x="1223.4489" y="824.2296" z="1517.9948" h="105"/> <!-- Temple -->
+	<portal_loc world_id="400060000" loc_id="4000617" x="572.3929" y="1475.8175" z="1483.2329" h="105"/>
+	<!-- 4.8 220100000 port -->
+	<portal_loc world_id="220100000" loc_id="2201000" x="692.062" y="709.73663" z="514.8746" h="33"/>
+	<portal_loc world_id="220100000" loc_id="2201001" x="531.88324" y="374.83298" z="324.90317" h="97"/>
+	<!-- Stonespear Siege -->
+	<portal_loc world_id="301500000" loc_id="3015000" x="2848.9778" y="349.06592" z="93.75333"/>	
+</portal_locs>

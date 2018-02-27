@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawns>
+    <spawn_map map_id="300010000">
+        <spawn npc_id="804679" respawn_time="295" difficult_id="0" custom="true"/>
+        <spawn npc_id="701743" respawn_time="295" difficult_id="0" custom="true"/>
+        <spawn npc_id="701744" respawn_time="295" difficult_id="0" custom="true"/>
+        <spawn npc_id="730056" respawn_time="295" difficult_id="0" custom="true"/>
+        <spawn npc_id="251045" respawn_time="295" difficult_id="0" custom="true"/>
+        <spawn npc_id="220001" respawn_time="295" difficult_id="0" custom="true"/>
+        <spawn npc_id="234610" respawn_time="295" difficult_id="0" custom="true"/>
+        <spawn npc_id="233740" respawn_time="295" difficult_id="0" custom="true"/>
+        <spawn npc_id="272012" respawn_time="295" difficult_id="0" custom="true"/>
+        <spawn npc_id="263314" respawn_time="295" difficult_id="0" custom="true"/>
+        <spawn npc_id="235065" respawn_time="295" difficult_id="0" custom="true">
+            <spot x="218.75685" y="271.43332" z="205.9109" h="19" walker_id="LDF4_ADVANCE_NPCPATHGOD_D_04"/>
+        </spawn>
+        <spawn npc_id="235064" respawn_time="295" difficult_id="0" custom="true">
+            <spot x="228.45769" y="263.32144" z="205.66374" h="10" walker_id="LDF4_ADVANCE_NPCPATHGOD_L_04"/>
+        </spawn>
+        <spawn npc_id="258200" respawn_time="295" difficult_id="0" custom="true"/>
+        <spawn npc_id="258205" respawn_time="295" difficult_id="0" custom="true"/>
+        <spawn npc_id="856165" respawn_time="295" difficult_id="0" custom="true">
+            <spot x="228.45769" y="263.32144" z="205.66374" h="103"/>
+        </spawn>
+        <spawn npc_id="855263" respawn_time="295" difficult_id="0" custom="true"/>
+        <spawn npc_id="276648" respawn_time="295" difficult_id="0" custom="true"/>
+        <spawn npc_id="258236" respawn_time="295" difficult_id="0" custom="true"/>
+        <spawn npc_id="260012" respawn_time="295" difficult_id="0" custom="true"/>
+    </spawn_map>
+</spawns>

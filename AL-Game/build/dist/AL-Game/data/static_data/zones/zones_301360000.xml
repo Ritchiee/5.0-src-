@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<zone priority="16" zone_type="SUB" area_type="POLYGON" name="INFERNAL_DANUAR_RELIQUARY_301360000" mapid="301360000" flags="55">
+		<points bottom="226.506683" top="326.506683">
+			<point x="229.8049" y="230.7632" />
+			<point x="253.4126" y="221.4252" />
+			<point x="281.4841" y="232.6176" />
+			<point x="291.8515" y="261.3949" />
+			<point x="279.9874" y="286.6079" />
+			<point x="256.2432" y="297.5204" />
+			<point x="230.0873" y="283.3291" />
+			<point x="219.3402" y="255.2124" />
+		</points>
+	</zone>
+	<zone zone_type="ITEM_USE" area_type="POLYGON" name="IDLDF5_UNDER_RUNE_ITEMUSEAREA_ALL" mapid="301360000" flags="55">
+		<points bottom="232.4862" top="332.4862">
+			<point x="232.8407" y="231.0841" />
+			<point x="256.5028" y="218.8231" />
+			<point x="282.1322" y="232.9692" />
+			<point x="291.1317" y="257.2828" />
+			<point x="283.1383" y="284.5389" />
+			<point x="256.7915" y="299.0037" />
+			<point x="230.8819" y="282.2260" />
+			<point x="222.9625" y="258.5326" />
+		</points>
+	</zone>
+	<zone zone_type="ITEM_USE" area_type="POLYGON" name="IDLDF5_UNDER_RUNE_ITEMUSEAREA_ALL_LOSE_45" mapid="301360000" flags="55">
+		<points bottom="232.4862" top="332.4862">
+			<point x="232.6416" y="230.7014" />
+			<point x="256.3036" y="218.4403" />
+			<point x="281.9330" y="232.5864" />
+			<point x="290.9326" y="256.9000" />
+			<point x="282.9391" y="284.1561" />
+			<point x="256.5923" y="298.6209" />
+			<point x="230.6828" y="281.8432" />
+			<point x="222.7634" y="258.1498" />
+		</points>
+	</zone>
+</zones>

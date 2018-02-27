@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aion-Lightning-Emulator.iml" filepath="$PROJECT_DIR$/Aion-Lightning-Emulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Insaneaion 4.9 SRC.iml" filepath="$PROJECT_DIR$/src/Insaneaion 4.9 SRC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/com/aionemu/gameserver/SRC 4.9.iml" filepath="$PROJECT_DIR$/src/com/aionemu/gameserver/SRC 4.9.iml" />
+    </modules>
+  </component>
+</project>

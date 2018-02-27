@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<warehouse_expander xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="warehouse_expander.xsd">
+  <warehouse_npc id="810004">
+ 	<expand level="1" price="1200" />
+ 	<expand level="2" price="24000" />
+ 	<expand level="3" price="72600" />
+ 	<expand level="4" price="181500" />
+ 	<expand level="5" price="363000" />
+ 	<expand level="6" price="1422000" />
+ 	<expand level="7" price="2844000" />
+ 	<expand level="8" price="5688000" />
+ 	<expand level="9" price="11376000" />
+ </warehouse_npc>
+  <warehouse_npc id="810005">
+ 	<expand level="1" price="1200" />
+ 	<expand level="2" price="24000" />
+ 	<expand level="3" price="72600" />
+ 	<expand level="4" price="181500" />
+ 	<expand level="5" price="363000" />
+ 	<expand level="6" price="1422000" />
+ 	<expand level="7" price="2844000" />
+ 	<expand level="8" price="5688000" />
+ 	<expand level="9" price="11376000" />
+ </warehouse_npc>
+</warehouse_expander>

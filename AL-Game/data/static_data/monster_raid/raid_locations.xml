@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<raid_locations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:noNamespaceSchemaLocation="raid_locations.xsd">
+    <!-- Verteron -->
+    <raid_location id="1" world="210030000" x="1586.9154" y="2078.2305" z="155.875" h="66" npc_id="234558"/>
+    <raid_location id="2" world="210030000" x="1702.6613" y="1662.9213" z="102.19242" h="64" npc_id="234559"/>
+    <raid_location id="3" world="210030000" x="2485.3333" y="824.3736" z="100.625" h="56" npc_id="234560"/>
+    <!-- Altgard -->
+    <raid_location id="4" world="220030000" x="2895.708" y="1516.8243" z="250.65457" h="70" npc_id="234561"/>
+    <raid_location id="5" world="220030000" x="1761.3639" y="506.55444" z="247.3006" h="53" npc_id="234562"/>
+    <raid_location id="6" world="220030000" x="1870.0" y="1675.0" z="247.375" h="53" npc_id="234563"/>
+    <!-- Eltnen -->
+    <raid_location id="7" world="210020000" x="858.5479" y="1151.3783" z="278.46576" h="71" npc_id="234564"/>
+    <raid_location id="8" world="210020000" x="1519.0" y="1911.0" z="289.5" h="10" npc_id="234565"/>
+    <raid_location id="9" world="210020000" x="260.20285" y="2134.1099" z="207.375" h="9" npc_id="234566"/>
+    <!-- Morheim -->
+    <raid_location id="10" world="220020000" x="575.64" y="361.32" z="503.64" h="26" npc_id="234567"/>
+    <raid_location id="11" world="220020000" x="400.68732" y="1715.6395" z="441.6271" h="20" npc_id="234568"/>
+    <raid_location id="12" world="220020000" x="580.48895" y="355.1831" z="485.2271" h="61" npc_id="234569"/>
+    <!-- Theobomos -->
+    <raid_location id="13" world="210060000" x="555.4294" y="2231.6064" z="44.089336" h="71" npc_id="234570"/>
+    <raid_location id="14" world="210060000" x="2429.1567" y="2619.0974" z="40.25" h="40" npc_id="234571"/>
+    <raid_location id="15" world="210060000" x="1788.8583" y="1342.856" z="18.678497" h="27" npc_id="234572"/>
+    <!-- Brusthonin -->
+    <raid_location id="16" world="220050000" x="417.68674" y="2836.982" z="245.81363" h="49" npc_id="234573"/>
+    <raid_location id="17" world="220050000" x="2473.5154" y="1896.5199" z="23.560577" h="19" npc_id="234574"/>
+    <raid_location id="18" world="220050000" x="330.7251" y="369.1558" z="5.125" h="21" npc_id="234575"/>
+    <!-- Heiron -->
+    <raid_location id="19" world="210040000" x="383.20038" y="2903.1125" z="101.836" h="103" npc_id="234576"/>
+    <raid_location id="20" world="210040000" x="1470.0549" y="1890.8654" z="106.22974" h="7" npc_id="234577"/>
+    <raid_location id="21" world="210040000" x="540.073" y="2107.656" z="103.375" h="107" npc_id="234578"/>
+    <!-- Beluslan -->
+    <raid_location id="22" world="220040000" x="773.9881" y="1227.3733" z="222.79666" h="87" npc_id="234579"/>
+    <raid_location id="23" world="220040000" x="465.72607" y="1786.9429" z="206.01352" h="3" npc_id="234580"/>
+    <raid_location id="24" world="220040000" x="2565.876" y="286.7999" z="287.49225" h="18" npc_id="234581"/>
+    <!-- Inggison -->
+    <raid_location id="25" world="210050000" x="2762.5203" y="830.4615" z="383.87866" h="58" npc_id="234582"/>
+    <raid_location id="26" world="210050000" x="2729.864" y="1890.5359" z="189.625" h="39" npc_id="234583"/>
+    <raid_location id="27" world="210050000" x="1929.1307" y="1953.1182" z="289.32068" h="64" npc_id="234584"/>
+    <!-- Gelkmaros -->
+    <raid_location id="28" world="220070000" x="2186.1123" y="922.95953" z="186.69003" h="32" npc_id="234585"/>
+    <raid_location id="29" world="220070000" x="591.8911" y="1341.8286" z="276.875" h="119" npc_id="234586"/>
+    <raid_location id="30" world="220070000" x="1488.8247" y="1256.1757" z="298.05154" h="46" npc_id="234587"/>
+    <!-- Reshanta -->
+    <raid_location id="31" world="400010000" x="801.67847" y="851.76624" z="1672.014" h="61" npc_id="234588"/>
+    <raid_location id="32" world="400010000" x="2020.6847" y="2832.924" z="2830.972" h="51" npc_id="234589"/>
+    <raid_location id="33" world="400010000" x="2280.3706" y="870.72766" z="2831.548" h="98" npc_id="234590"/>
+    <raid_location id="34" world="400010000" x="3332.5474" y="1371.9772" z="2666.258" h="89" npc_id="234591"/>
+    <raid_location id="35" world="400010000" x="1123.5983" y="2096.5151" z="2886.9402" h="96" npc_id="234592"/>
+    <!-- Katalam -->
+    <raid_location id="36" world="600050000" x="1289.84" y="2062.84" z="113.50" h="27" npc_id="234593"/>
+    <raid_location id="37" world="600050000" x="1328.94" y="741.74" z="186.44" h="27" npc_id="234594"/>
+    <raid_location id="38" world="600050000" x="1330.4287" y="746.0952" z="124.157745" h="105" npc_id="234595"/>
+    <raid_location id="39" world="600050000" x="2892.905" y="636.7622" z="262.28226" h="34" npc_id="234596"/>
+    <raid_location id="40" world="600050000" x="1289.84" y="2062.84" z="113.50" h="27" npc_id="234597"/>
+    <raid_location id="41" world="600050000" x="1300.2908" y="2077.5435" z="62.625" h="50" npc_id="234598"/>
+    <raid_location id="42" world="600050000" x="2785.2856" y="2235.0767" z="266.625" h="9" npc_id="234599"/>
+    <!-- Danaria -->
+    <raid_location id="43" world="600060000" x="1690.0896" y="1613.8302" z="140.48938" h="115" npc_id="234600"/>
+    <raid_location id="44" world="600060000" x="1547.05" y="2154.18" z="158.25" h="26" npc_id="234601"/>
+    <raid_location id="45" world="600060000" x="2442.33" y="1261.64" z="143.73" h="27" npc_id="234602"/>
+    <raid_location id="46" world="600060000" x="892.77" y="1721.95" z="438.73" h="27" npc_id="234603"/>
+    <raid_location id="47" world="600060000" x="899.90546" y="1711.1982" z="361.03564" h="48" npc_id="234604"/>
+    <raid_location id="48" world="600060000" x="2714.79" y="1835.91" z="191.54" h="26" npc_id="234605"/>
+    <raid_location id="49" world="600060000" x="2725.7944" y="1856.1545" z="149.375" h="81" npc_id="234606"/>
+    <raid_location id="50" world="600060000" x="2452.874" y="1193.2833" z="54.640747" h="17" npc_id="234607"/>
+    <raid_location id="51" world="600060000" x="1549.7698" y="2163.3027" z="159.17764" h="90" npc_id="234608"/>
+    <!-- Levinshor -->
+    <raid_location id="52" world="600100000" x="1155.9978" y="1075.4766" z="303.375" h="104" npc_id="234609"/>
+    <raid_location id="53" world="600100000" x="675.446" y="1001.7693" z="274.59036" h="66" npc_id="234610"/>
+    <raid_location id="54" world="600100000" x="386.59848" y="1810.1382" z="226.42104" h="89" npc_id="234611"/>
+    <raid_location id="55" world="600100000" x="1829.788" y="152.00609" z="243.75038" h="79" npc_id="234612"/>
+    <!-- Kaldor -->
+    <raid_location id="56" world="600090000" x="656.06" y="808.15" z="165.125" h="78" npc_id="234613"/>
+    <raid_location id="57" world="600090000" x="289.80325" y="506.02426" z="158.125" h="114" npc_id="234614"/>
+    <raid_location id="58" world="600090000" x="1182.1178" y="348.7145" z="128.5" h="76" npc_id="234615"/>
+    <!-- 4.8 map -->
+    <raid_location id="59" world="210070000" x="593.9777" y="481.57568" z="416.42203" h="60" npc_id="220001"/>
+    <raid_location id="60" world="210070000" x="2943.966" y="2272.9531" z="231.43457" h="32" npc_id="220002"/>
+    <raid_location id="61" world="210070000" x="1429.0" y="1949.0" z="138.5625" h="27" npc_id="220003"/>
+
+    <raid_location id="62" world="220080000" x="2651.8286" y="2716.1633" z="202.89534" h="80" npc_id="219998"/>
+    <raid_location id="63" world="220080000" x="192.61913" y="527.22363" z="196.70428" h="103" npc_id="219999"/>
+    <raid_location id="64" world="220080000" x="1583.1567" y="1106.1504" z="132.79529" h="87" npc_id="220000"/>
+</raid_locations>

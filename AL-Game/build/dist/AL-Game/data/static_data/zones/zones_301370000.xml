@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<zone priority="13" zone_type="SUB" area_type="POLYGON" name="SOUTH_PLATFORM_301370000" mapid="301370000" flags="55">
+		<points bottom="216.405518" top="366.405518">
+			<point x="274.9810" y="277.9923" />
+			<point x="317.2874" y="309.0323" />
+			<point x="349.4202" y="254.2002" />
+			<point x="310.0189" y="196.3850" />
+			<point x="276.6871" y="235.6056" />
+		</points>
+	</zone>
+	<zone priority="10" zone_type="SUB" area_type="POLYGON" name="EAST_PLATFORM_301370000" mapid="301370000" flags="55">
+		<points bottom="219.122849" top="369.122864">
+			<point x="239.4113" y="276.4594" />
+			<point x="182.6165" y="361.5464" />
+			<point x="354.0459" y="328.1574" />
+			<point x="276.9323" y="278.1591" />
+		</points>
+	</zone>
+	<zone priority="11" zone_type="SUB" area_type="POLYGON" name="WEST_PLATFORM_301370000" mapid="301370000" flags="55">
+		<points bottom="211.9011" top="361.9011">
+			<point x="276.9494" y="240.0560" />
+			<point x="310.5932" y="197.8332" />
+			<point x="258.2605" y="169.5238" />
+			<point x="203.5361" y="197.9911" />
+			<point x="243.7276" y="235.1205" />
+		</points>
+	</zone>
+	<zone priority="16" zone_type="SUB" area_type="POLYGON" name="INFERNAL_ILLUMINARY_OBELISK_301370000" mapid="301370000" flags="55">
+		<points bottom="-24.7824459" top="675.2175">
+			<point x="-6.7889" y="-4.5007" />
+			<point x="485.4992" y="1.4102" />
+			<point x="488.0324" y="486.9429" />
+			<point x="-8.4777" y="488.6317" />
+		</points>
+	</zone>
+	<zone priority="12" zone_type="SUB" area_type="POLYGON" name="SHIELD_GENERATION_HUB_301370000" mapid="301370000" flags="55">
+		<points bottom="423.48172" top="523.48175">
+			<point x="211.9065" y="202.9364" />
+			<point x="252.1260" y="187.4817" />
+			<point x="285.4561" y="190.6471" />
+			<point x="319.3448" y="226.7702" />
+			<point x="323.9998" y="269.2242" />
+			<point x="309.8485" y="308.5127" />
+			<point x="282.1045" y="326.3881" />
+			<point x="246.3538" y="331.0431" />
+			<point x="212.0927" y="317.0780" />
+			<point x="192.9139" y="291.1960" />
+			<point x="186.2107" y="247.4386" />
+			<point x="202.5964" y="213.9223" />
+		</points>
+	</zone>
+	<zone priority="12" zone_type="SUB" area_type="POLYGON" name="NORTH_PLATFORM_301370000" mapid="301370000" flags="55">
+		<points bottom="218.466583" top="368.466583">
+			<point x="243.0359" y="234.1204" />
+			<point x="201.0204" y="195.6884" />
+			<point x="162.5281" y="253.1876" />
+			<point x="206.3995" y="328.2958" />
+			<point x="240.9567" y="276.1094" />
+		</points>
+	</zone>
+</zones>
